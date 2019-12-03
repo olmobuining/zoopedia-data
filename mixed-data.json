@@ -1,0 +1,2907 @@
+[
+    {
+        "name": "Aardvark",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Shy",
+        "life_expectancy": {
+            "male": 18,
+            "female": 18
+        },
+        "habitat_requirements": {
+            "guest_enter": true,
+            "exhibit": false,
+            "land": 330,
+            "land_additional": 60,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 16,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 2
+                },
+                "male": 1,
+                "female": 1
+            }
+        },
+        "latin_name": "Orycteropus afer",
+        "category": "Mammal",
+        "description": "<p>The aardvark (or Orycteropus afer) is a medium-sized insectivore that lives throughout Sub-Saharan Africa. They have pink-grey skin with sparse, coarse hair, large slender ears and an elongated head that ends in a pig-like snout. Males are slightly larger than females, but both sexes are generally between 105 and 130cm long, have a tail between 60 and 70cm, and weigh between 40 and 65kg.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_aardvark.jpg",
+        "slug": "aardvark",
+        "key": "aardvark"
+    },
+    {
+        "name": "African Buffalo",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Near Threatened",
+        "exhibit": false,
+        "relationship_human": "neutral",
+        "life_expectancy": {
+            "male": 22,
+            "female": 22
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 420,
+            "land_additional": 90,
+            "water_additional": 10,
+            "climbable_additional": 0,
+            "water": 20,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 16,
+                "max": 40
+            },
+            "fence": {
+                "grade": 3,
+                "height": 1,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 15
+                },
+                "male": 1,
+                "female": 14
+            }
+        },
+        "latin_name": "Syncerus caffer caffer",
+        "category": "Mammal",
+        "description": "<p>Living throughout Sub-Saharan Africa, the African buffalo (or Syncerus caffer caffer) is the largest member of the cow family – bovids – found in the African wild. They are typically between 1.7 and 3.4m in length, measure 1.0 to 1.7m tall, and are identifiable by their distinctive horns, which are broad, curved and unite in a ‘boss’ in the centre of their forehead. The dominant male in a herd will often have the largest horns.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/AfricanBuffalo.jpg",
+        "slug": "african-buffalo",
+        "key": "african-buffalo"
+    },
+    {
+        "name": "African Elephant",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Desert",
+            "Grassland",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Vulnerable",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 65,
+            "female": 65
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 2151,
+            "land_additional": 667,
+            "water_additional": 72,
+            "climbable_additional": 0,
+            "water": 148,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 16,
+                "max": 42
+            },
+            "fence": {
+                "grade": 4,
+                "height": 3,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 15
+                },
+                "male": 1,
+                "female": 14
+            }
+        },
+        "latin_name": "Loxodonta africana",
+        "category": "Mammal",
+        "description": "<p>The African elephant is native to Sub Saharan Africa and lives in savannahs, forests and mountains. African elephants are large and thickset with thick grey skin and a characteristic trunk that they use for vocalising, drinking and grasping food. Both male and female African elephants have tusks. Elephants are known for their intelligence and strong social bonds. Female herds bond for life and will remember and communicate with family members even if herds split up. Bonds are especially strong between mothers and their babies.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/AfricanElephant.jpg",
+        "slug": "african-elephant",
+        "key": "african-elephant"
+    },
+    {
+        "name": "African Wild Dog",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland"
+        ],
+        "can_swim": true,
+        "status": "Endangered",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 11,
+            "female": 11
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 1162,
+            "land_additional": 92,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 16,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 27
+                },
+                "male": 27,
+                "female": 9
+            }
+        },
+        "latin_name": "Lycaon pictus",
+        "category": "Mammal",
+        "description": "<p>African wild dogs (or Lycaon pictus) are also known as African hunting dogs or painted wolves. They live throughout sub-Saharan Africa – the continent has several different populations and five subspecies in total. The dogs are slim and tall in comparison to other canines, with extremely large rounded ears and distinctive colouration. Generally they have yellow and black mottled fur with white patches on their legs, chest and tail, however this varies on the subspecies. Some may also have a spot-like patterning on parts of their body.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_africanwilddog.jpg",
+        "slug": "african-wild-dog",
+        "key": "african-wild-dog"
+    },
+    {
+        "name": "Aldabra Giant Tortoise",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland",
+            "Temperate"
+        ],
+        "can_swim": true,
+        "status": "Vulnerable",
+        "exhibit": false,
+        "relationship_human": "Neutral",
+        "life_expectancy": {
+            "male": 119,
+            "female": 119
+        },
+        "habitat_requirements": {
+            "guest_enter": true,
+            "exhibit": false,
+            "land": 230,
+            "land_additional": 5,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 16,
+                "max": 42
+            },
+            "fence": {
+                "grade": 1,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 4
+                },
+                "male": 1,
+                "female": 3
+            }
+        },
+        "latin_name": "Aldabrachelys gigantea",
+        "category": "Reptile",
+        "description": "<p>Endemic to the Seychelle Islands, an Indian Ocean archipelago east of the African coast, the Aldabra giant tortoise (or Aldabrachelys gigantea) is a reptilian species capable of growing to extremely large sizes. Males average between 200 and 250 kg, while the smaller females still average between 121 and 159kg. Their shells are a dull, grey-brown colour made up of peaked keratinous plates and their skin is scaly and grey.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_aldabragianttortoise.jpg",
+        "slug": "aldabra-giant-tortoise",
+        "key": "aldabra-giant-tortoise"
+    },
+    {
+        "name": "American Bison",
+        "continent": [
+            "North America"
+        ],
+        "biome": [
+            "Grassland"
+        ],
+        "can_swim": true,
+        "status": "Near Threatened",
+        "exhibit": false,
+        "relationship_human": "Neutral",
+        "life_expectancy": {
+            "male": 26,
+            "female": 26
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 420,
+            "land_additional": 90,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 0,
+                "max": 40
+            },
+            "fence": {
+                "grade": 3,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 3,
+                    "max": 15
+                },
+                "male": 1,
+                "female": 14
+            }
+        },
+        "slug": "american-bison",
+        "key": "american-bison",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/AmericanBison.jpg",
+        "latin_name": "Bison bison bison",
+        "category": "Mammal",
+        "description": "<p>The American plains bison (or Bison bison bison) is a large ungulate native to the USA and Canada. Bison are characterised by their large head, shoulder hump and forequarters, all of which are covered in a shaggy coat. Their hind-quarters are comparatively less muscled with a thinner coat. Both sexes have horns are similar in size, but males are much heavier due to having more muscle.</p>\n"
+    },
+    {
+        "name": "Bactrian Camel",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Desert",
+            "Temperate"
+        ],
+        "can_swim": true,
+        "status": "Domesticated",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 40,
+            "female": 40
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 650,
+            "land_additional": 100,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 5,
+                "max": 44
+            },
+            "fence": {
+                "grade": 2,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 2,
+                    "max": 11
+                },
+                "male": 1,
+                "female": 10
+            }
+        },
+        "latin_name": "Camelus bactrianus",
+        "category": "Mammal",
+        "description": "<p>Domestic Bactrian camels (or Camelus bactrianus) are large ungulates native to Central Asia. They have two humps and thick sandy-coloured wool coats, although they can also be dark brown or white. On average they are 2m tall at the shoulder with an extra 30cm of height added by their humps, and males are significantly larger than females.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/BactrianCamel.jpg",
+        "slug": "bactrian-camel",
+        "key": "bactrian-camel"
+    },
+    {
+        "name": "Baird's Tapir",
+        "continent": [
+            "Central America",
+            "South America"
+        ],
+        "biome": [
+            "Grassland",
+            "Temperate",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Endangered",
+        "exhibit": false,
+        "relationship_human": "Shy",
+        "life_expectancy": {
+            "male": 24,
+            "female": 24
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 430,
+            "land_additional": 56,
+            "water_additional": 19,
+            "climbable_additional": 0,
+            "water": 37,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 16,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 1,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 2
+                },
+                "male": 1,
+                "female": 1
+            }
+        },
+        "slug": "bairds-tapir",
+        "key": "bairds-tapir",
+        "latin_name": "Tapirus bairdii",
+        "category": "Mammal",
+        "description": "<p>Baird’s tapir (or Tapirus bairdii) is an endangered mammal native to the woodlands of Central America. It’s one of five species of tapir – four of which live in Central and/or South America. Males and females are similar sizes,  although females are slightly larger, and both have a dark brown to black coat, as well as a pale chin and chest when fully grown. Calves, meanwhile, are tan with white spots and stripes; their colouration provides them with camouflage in the dappled light of the woodland where they live.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/BairdsTapir.jpg"
+    },
+    {
+        "name": "Bengal Tiger",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Grassland",
+            "Temperate",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Endangered",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 15,
+            "female": 15
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 705,
+            "land_additional": 66,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 12,
+                "max": 40
+            },
+            "fence": {
+                "grade": 3,
+                "height": 3,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 2
+                },
+                "male": 1,
+                "female": 1
+            }
+        },
+        "latin_name": "Panthera tigris tigris",
+        "category": "Mammal",
+        "description": "<p>The Bengal tiger (or Panthera tigris tigris) is native to India, Bangladesh, Nepal, Bhutan and Western China. It can live in all kinds of environments, including grassland, forests and mangroves, and will hunt large prey such as cloven-hoofed animals like goats, deer and cows (collectively known as ungulates). The Bengal tiger can be identified by its bright orange coat and brown or black stripes, along with a large head, muscular limbs and large teeth.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/bengaltiger.jpg",
+        "slug": "bengal-tiger",
+        "key": "bengal-tiger"
+    },
+    {
+        "name": "Black Wildebeest",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Neutral",
+        "life_expectancy": {
+            "male": 19,
+            "female": 19
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 410,
+            "land_additional": 40,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 1,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 32
+                },
+                "male": 1,
+                "female": 31
+            }
+        },
+        "slug": "black-wildebeest",
+        "key": "black-wildebeest",
+        "latin_name": "Connochaetes gnou",
+        "category": "Mammal",
+        "description": "<p>The black wildebeest (or Connochaetes gnou) is a large ungulate species native to Southern Africa, also known as the ‘gnu’ after the distinctive noise they make when alarmed. The species is recognisable by a brown-black coat and L-shaped horns, and males can be distinguished from females due to their darker colour and larger size. Both sexes have thick, bushy manes and a long horse-like tail, measuring between 1.7 and 2.2m long, 1.06 to 1.21m tall at the shoulder, and weighing 120 to 193kg.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_blackwildebeest.jpg"
+    },
+    {
+        "name": "Bongo",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Near Threatened",
+        "exhibit": false,
+        "relationship_human": "Shy",
+        "life_expectancy": {
+            "male": 18,
+            "female": 18
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 240,
+            "land_additional": 30,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 1,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 5
+                },
+                "male": 1,
+                "female": 4
+            }
+        },
+        "latin_name": "Tragelaphus erycerus",
+        "category": "Mammal",
+        "description": "<p>The bongo (or Tragelaphus erycerus) is a secretive, forest-dwelling antelope that lives in the woodlands of Central Africa. They have a tan-to-red coloured coat, white vertical stripes on their torso and pale inner legs, large ears, and a yellow chevron under their eyes. Their main distinguishing features are their large, spiraling, vertical horns. While males and females are a similar size – between 1.1 and 1.3m tall at the shoulder, and 2.15 and 3.15m long – the males are much heavier, averaging 310kg compared to a female’s 190kg.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/Bongo.jpg",
+        "slug": "bongo",
+        "key": "bongo"
+    },
+    {
+        "name": "Bonobo",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Endangered",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 40,
+            "female": 40
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 780,
+            "land_additional": 50,
+            "water_additional": 0,
+            "climbable_additional": 30,
+            "water": 0,
+            "climbable": 80,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 3,
+                "height": 0,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 3,
+                    "max": 10
+                },
+                "male": 7,
+                "female": 7
+            }
+        },
+        "latin_name": "Pan paniscus",
+        "category": "Mammal",
+        "description": "<p>Bonobos (or Pan paniscus) live in the forests and wetlands of the Democratic Republic of Congo, and are most closely related to the common chimpanzee (or Pan troglodytes). Out of any species in nature, these two types of ape have the most DNA in common with humans. Bonobos have pink lips and dark, forward-facing eyes, small ears, a flat nose with wide nostrils, as well as black hair. Male bonobos are larger than females – averaging 73 to 83cm tall and weighing 39kg – whereas a female stands 70 to 76cm tall and weighs 31kg.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/Bonobo.jpg",
+        "slug": "bonobo",
+        "key": "bonobo"
+    },
+    {
+        "name": "Bornean Orangutan",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Critically Endangered",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 44,
+            "female": 44
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 780,
+            "land_additional": 50,
+            "water_additional": 0,
+            "climbable_additional": 40,
+            "water": 0,
+            "climbable": 120,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 3,
+                "height": 0,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 6
+                },
+                "male": 1,
+                "female": 5
+            }
+        },
+        "latin_name": "Pongo pygmaeus",
+        "category": "Mammal",
+        "description": "<p>The orangutan (or Pongo pygmaeus) is native to the island of Borneo, their range also spanning areas of Bornean Indonesia and Malaysia. They are large apes identifiable by their red fur and brown skin, while mature males also have distinct, large cheek pads and throat pouches used for making loud vocalizations to attract females. They are incredibly intelligent animals and have been observed creating and using tools in the wild to acquire food. However, they cannot swim and their range is often limited by rivers that they cannot cross in the wild.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_borneanorangutan.jpg",
+        "slug": "bornean-orangutan",
+        "key": "bornean-orangutan"
+    },
+    {
+        "name": "Cheetah",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland"
+        ],
+        "can_swim": true,
+        "status": "Vulnerable",
+        "exhibit": false,
+        "relationship_human": "Shy",
+        "life_expectancy": {
+            "male": 14,
+            "female": 14
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 705,
+            "land_additional": 111,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 3
+                },
+                "male": 1,
+                "female": 1
+            }
+        },
+        "latin_name": "Acinonyx jubatus",
+        "category": "Mammal",
+        "description": "<p>The cheetah (or Acinonyx jubatus) lives in the savannahs and dry woodlands of Central and Southern Africa. They can be recognised by their slim body, deep chest, thin legs and tail, as well as dark ‘tear marks’ on the face. Not to mention their most distinctive feature – their spots. Cheetahs are famous for being the fastest land animal, reaching up to 70mph when pursuing their prey. This is generally medium-sized mammals such as gazelle and impala.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_cheetah.jpg",
+        "slug": "cheetah",
+        "key": "cheetah"
+    },
+    {
+        "name": "Chinese Pangolin",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Temperate",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Critically Endangered",
+        "exhibit": false,
+        "relationship_human": "Shy",
+        "life_expectancy": {
+            "male": 13,
+            "female": 13
+        },
+        "habitat_requirements": {
+            "guest_enter": true,
+            "exhibit": false,
+            "land": 182,
+            "land_additional": 16,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 12,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 0,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 3
+                },
+                "male": 3,
+                "female": 3
+            }
+        },
+        "latin_name": "Manis pentadactyla",
+        "category": "Mammal",
+        "description": "<p>The Chinese pangolin (or Manis pentadactyla) is a critically endangered insectivorous species native to India, Nepal, Bhutan, Bangladesh, Myanmar, Taiwan and Southern China. They are small, secretive and slow-moving animals, their most distinguishing feature being their layered armour-like keratinous scales. Chinese pangolins are between 40 and 58cm long with a tail measuring 25 to 38cm. They spend their days sleeping in their burrows, and their nights foraging for ants, termites and other insects.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_chinesepangolin.jpg",
+        "slug": "chinese-pangolin",
+        "key": "chinese-pangolin"
+    },
+    {
+        "name": "Common Ostrich",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Neutral",
+        "life_expectancy": {
+            "male": 46,
+            "female": 46
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 675,
+            "land_additional": 75,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 8
+                },
+                "male": 1,
+                "female": 7
+            }
+        },
+        "latin_name": "Struthio camelus",
+        "category": "Bird",
+        "description": "<p>The common ostrich (or Struthio camelus) is the largest known bird species in the world. Males have black body feathers and white feathers on their wing-tips and tails, while females have grey-brown body feathers. On both sexes, the head, neck and legs are pink to white in colour, and there is some variation in appearance depending on the bird’s original location in Africa. The males have an average height of 2.1 to 2.8m, whereas females are smaller, measuring between 1.7 and 2.0m.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_commonostrich.jpg",
+        "slug": "common-ostrich",
+        "key": "common-ostrich"
+    },
+    {
+        "name": "Common Warthog",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 18,
+            "female": 18
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 290,
+            "land_additional": 10,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 1,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 7
+                },
+                "male": 1,
+                "female": 6
+            }
+        },
+        "latin_name": "Phacochoerus africanus",
+        "category": "Mammal",
+        "description": "<p>The common warthog (or Phacochoerus africanus) lives throughout Sub-Saharan Africa in a wide variety of environments. Although not currently endangered, the species is vulnerable to drought and hunting, as they’re often viewed by humans as pests. The reason for this is twofold. Firstly, they can spread disease to livestock. Secondly, they can destroy crops on farmland when rooting with their tusks. This has resulted in some pockets of the population being wiped out.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_commonwarthog.jpg",
+        "slug": "common-warthog",
+        "key": "common-warthog"
+    },
+    {
+        "name": "Formosan Black Bear",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Taiga",
+            "Temperate"
+        ],
+        "can_swim": true,
+        "status": "Vulnerable",
+        "exhibit": false,
+        "relationship_human": "Shy",
+        "life_expectancy": {
+            "male": 31,
+            "female": 31
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 950,
+            "land_additional": 140,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": -6,
+                "max": 29
+            },
+            "fence": {
+                "grade": 4,
+                "height": 0,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 2
+                },
+                "male": 1,
+                "female": 1
+            }
+        },
+        "latin_name": "Ursus thibetanus formosanus",
+        "category": "Mammal",
+        "description": "<p>The Formosan black bear (or Ursus thibetanus formosanus) is a subspecies of the Asiatic black bear that’s endemic to Taiwan. They have a stocky build with black fur, rounded ears and a long straight snout; plus their most characteristic and distinct visual feature, which is a V-shaped white patch on their chest. The Formosan black bears are sexually dimorphic; in this case the males are much larger than females. The former weigh and measure an average of 135kg and 1.7m, and the latter average 70kg and 1.35m.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/FormosanBlackBear.jpg",
+        "slug": "formosan-black-bear",
+        "key": "formosan-black-bear"
+    },
+    {
+        "name": "Galapagos Giant Tortoise",
+        "continent": [
+            "South America"
+        ],
+        "biome": [
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Vulnerable",
+        "exhibit": false,
+        "relationship_human": "Neutral",
+        "life_expectancy": {
+            "male": 100,
+            "female": 100
+        },
+        "habitat_requirements": {
+            "guest_enter": true,
+            "exhibit": false,
+            "land": 230,
+            "land_additional": 5,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 14,
+                "max": 40
+            },
+            "fence": {
+                "grade": 1,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 4
+                },
+                "male": 1,
+                "female": 3
+            }
+        },
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_galapagosgianttortoise.jpg",
+        "latin_name": "Chelonoidas nigra",
+        "category": "Reptile",
+        "description": "<p>The Giant Galapagos tortoise (or Chelonoidas nigra) is a species of reptile endemic to the Galapagos Islands and does not appear anywhere else in the world. They come in two types – saddleback shelled and dome shelled – and both variants have a dull grey-brown shell and scaly, grey coloured skin. Saddleback shell tortoises have long necks and live in dry lowland areas, while dome shell tortoises have short necks and live in humid highland areas. Both can grow to extremely large sizes, with the average male weighing between 272 and 317kg, and the average female weighing between 136 and 181kg.</p>\n",
+        "slug": "galapagos-giant-tortoise",
+        "key": "galapagos-giant-tortoise"
+    },
+    {
+        "name": "Gemsbok",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Desert"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Shy",
+        "life_expectancy": {
+            "male": 20,
+            "female": 20
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 270,
+            "land_additional": 40,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 14,
+                "max": 42
+            },
+            "fence": {
+                "grade": 2,
+                "height": 1,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 5,
+                    "max": 10
+                },
+                "male": 1,
+                "female": 9
+            }
+        },
+        "latin_name": "Oryx gazella",
+        "category": "Mammal",
+        "description": "<p>The gemsbok (or Oryx gazella) is a species of antelope that lives in the Kalahari and Namib deserts of Southern Africa. They are characterised by several visual features: long, slim and spiral horns; a black face with white markings over the eyes and muzzle; a grey-brown coat with black markings on the upper legs and back; as well as white ‘socks’. On average, Gemsbok stand between 1.1 and 1.3m tall at the shoulder, measure 1.9 to 2.4m long and have an average horn length of 85cm. The males are also slightly larger and significantly heavier than the females.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_gemsbok.jpg",
+        "slug": "gemsbok",
+        "key": "gemsbok"
+    },
+    {
+        "name": "Gharial",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Aquatic",
+            "Temperate",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Critically Endangered",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 50,
+            "female": 50
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 370,
+            "land_additional": 16,
+            "water_additional": 30,
+            "climbable_additional": 0,
+            "water": 300,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 14,
+                "max": 42
+            },
+            "fence": {
+                "grade": 2,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 7
+                },
+                "male": 7,
+                "female": 7
+            }
+        },
+        "latin_name": "Gavialis gangeticus",
+        "category": "Reptile",
+        "description": "<p>Gharials (or Gavialis gangeticus) are a critically endangered species of crocodile native to the rivers of the Indian subcontinent. With recent estimations stating there are just 200 left in the wild, the dwindling population is now restricted to just four stretches of river in Nepal and North India. Their collapse in numbers has been caused by the increase in river pollution reducing the amount of fish in the water, as well as by sand-mining destroying sandbanks that are essential for egg-laying females.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_gharial.jpg",
+        "slug": "gharial",
+        "key": "gharial"
+    },
+    {
+        "name": "Giant Panda",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Temperate"
+        ],
+        "can_swim": true,
+        "status": "Vulnerable",
+        "exhibit": false,
+        "relationship_human": "Neutral",
+        "life_expectancy": {
+            "male": 20,
+            "female": 20
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 900,
+            "land_additional": 150,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 2,
+                "max": 29
+            },
+            "fence": {
+                "grade": 4,
+                "height": 0,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 10
+                },
+                "male": 10,
+                "female": 10
+            }
+        },
+        "latin_name": "Ailuropoda melanoleuca",
+        "category": "Mammal",
+        "description": "<p>The giant panda (or Ailuropoda melanoleuca) is a species of bear native to the mountains of Central China. They have black and white fur in a distinctive pattern, with black legs, ears and circles around their eyes. Pandas feed almost exclusively on bamboo and, as a result, are extremely dependent on rich bamboo forests to survive. This is a low energy food, so pandas must eat a lot of it to live and spend most of their waking hours foraging and eating. Their low energy intake also means they produce very tiny and vulnerable cubs.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/GiantPanda.jpg",
+        "slug": "giant-panda",
+        "key": "giant-panda"
+    },
+    {
+        "name": "Greater Flamingo",
+        "continent": [
+            "Africa",
+            "Asia",
+            "Europe"
+        ],
+        "biome": [
+            "Aquatic",
+            "Grassland",
+            "Temperate",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Neutral",
+        "life_expectancy": {
+            "male": 59,
+            "female": 59
+        },
+        "habitat_requirements": {
+            "guest_enter": true,
+            "exhibit": false,
+            "land": 300,
+            "land_additional": 9,
+            "water_additional": 12,
+            "climbable_additional": 0,
+            "water": 125,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 1,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 10,
+                    "max": 500
+                },
+                "male": 500,
+                "female": 500
+            }
+        },
+        "latin_name": "Phoenicopterus roseus",
+        "category": "Bird",
+        "description": "<p>The greater flamingo (or Phoenicopterus roseus) is a large species of migratory bird that is widespread across Europe, the Middle East, Asia and Africa. It lives on the mudflats and coastal lagoons of temperate and warm environments, and is a filter feeder which uses its beak to stir up mud and filter out algae, invertebrates and seeds. Male and female flamingos look the same with pale-pink to orange-pink feathers, pink legs, a pink beak with a black tip, and often brighter pink patches on their wings. They also have black flight feathers, measure between 110 and 150cm tall, and weigh between 2 and 4kg.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_greaterflamingo.jpg",
+        "slug": "greater-flamingo",
+        "key": "greater-flamingo"
+    },
+    {
+        "name": "Grizzly Bear",
+        "continent": [
+            "North America"
+        ],
+        "biome": [
+            "Taiga",
+            "Temperate",
+            "Tundra"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Neutral",
+        "life_expectancy": {
+            "male": 26,
+            "female": 26
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 750,
+            "land_additional": 50,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": -10,
+                "max": 28
+            },
+            "fence": {
+                "grade": 4,
+                "height": 0,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 2
+                },
+                "male": 1,
+                "female": 1
+            }
+        },
+        "latin_name": "Ursus arctos horribilis",
+        "category": "Mammal",
+        "description": "<p>Native to northern USA and Canada, the grizzly bear is in fact a subspecies of brown bear (or Ursus arctos horribilis) and is often called the North American brown bear to prevent confusion. A Grizzly can be identified by its thick, brown fur, a large shoulder hump, a straight snout and rounded ears. They have strong front legs with long claws used for digging and hunting. They can also grow extremely large, but there’s often a lot of variation in size between different populations – the average male weighs around 240kg and measures 2.2m long, while an average female weighs 160kg and measures 1.8m.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/GrizzlyBear.jpg",
+        "slug": "grizzly-bear",
+        "key": "grizzly-bear"
+    },
+    {
+        "name": "Himalayan Brown Bear",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Taiga",
+            "Tundra"
+        ],
+        "can_swim": true,
+        "status": "Critically Endangered",
+        "exhibit": false,
+        "relationship_human": "Neutral",
+        "life_expectancy": {
+            "male": 29,
+            "female": 29
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 550,
+            "land_additional": 40,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": -10,
+                "max": 22
+            },
+            "fence": {
+                "grade": 4,
+                "height": 0,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 2
+                },
+                "male": 1,
+                "female": 1
+            }
+        },
+        "latin_name": "Ursus arctos isabellinus",
+        "category": "Mammal",
+        "description": "<p>The Himalayan brown bear (or Ursus arctos isabellinus) is a subspecies of brown bear that lives in the mountains of Afghanistan, Pakistan, Northern India, West China, Nepal, Kazakhstan and Tibet. They are very rare and extremely endangered – the size of the population left in the wild are unknown, but they are threatened by numerous factors including habitat fragmentation through human development, as well as poaching for their fur and other body parts. They have thick reddish-brown fur and males are larger than females, with an average length of 1.9m and weight of 135kg, in comparison to the female averages of 1.6m and 70kg. They live at high altitudes – often above the tree line – and spend the summer months foraging, hunting and mating. The winter months are spent hibernating.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/HimalayanBrownBear.jpg",
+        "slug": "himalayan-brown-bear",
+        "key": "himalayan-brown-bear"
+    },
+    {
+        "name": "Hippopotamus",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Aquatic",
+            "Grassland"
+        ],
+        "can_swim": true,
+        "status": "Vulnerable",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 51,
+            "female": 51
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 1004,
+            "land_additional": 502,
+            "water_additional": 502,
+            "climbable_additional": 0,
+            "water": 1004,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 10,
+                "max": 37
+            },
+            "fence": {
+                "grade": 4,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 30
+                },
+                "male": 1,
+                "female": 29
+            }
+        },
+        "latin_name": "Hippopotamus amphibius",
+        "category": "Mammal",
+        "description": "<p>The common hippopotamus (or Hippopotamus amphibius) is a large mammal native to the rivers of Sub-Saharan Africa. They are large, water dwelling animals with long protruding teeth, nostrils on the top of their snout, small ears and thick grey-brown skin. Males are 4 to 5m long and weigh between 1500 and 2000kg, whereas females measure between 3.3 and 4.2m, and weigh 1000 to 1500kg.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/hippopotamus.jpg",
+        "slug": "hippopotamus",
+        "key": "hippopotamus"
+    },
+    {
+        "name": "Indian Elephant",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Grassland",
+            "Temperate",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Endangered",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 61,
+            "female": 61
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 882,
+            "land_additional": 204,
+            "water_additional": 34,
+            "climbable_additional": 0,
+            "water": 67,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 5,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 3,
+                    "max": 30
+                },
+                "male": 1,
+                "female": 29
+            }
+        },
+        "latin_name": "Elephas maximus indicus",
+        "category": "Mammal",
+        "description": "<p>Native to both Central and Southeast Asia, the Indian or Asian elephant (or Elephas maximus indicus) is a species distinguishable by a distinctive trunk, small ears, and grey skin with pink mottling around the face. They are smaller than their African counterparts, with males reaching an average height of 2.75m and weighing 4000kg, compared to the female average of 2.40m and 2400kg. They are large herbivores and live in a variety of different environments, including forests, grasslands and mountains, wherein they feed on tree leaves, bark and grasses.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_indianelephant.jpg",
+        "slug": "indian-elephant",
+        "key": "indian-elephant"
+    },
+    {
+        "name": "Indian Peafowl",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Temperate"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 23,
+            "female": 23
+        },
+        "habitat_requirements": {
+            "guest_enter": true,
+            "exhibit": false,
+            "land": 312,
+            "land_additional": 12,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 3,
+                "max": 30
+            },
+            "fence": {
+                "grade": 1,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 4,
+                    "max": 20
+                },
+                "male": 4,
+                "female": 16
+            }
+        },
+        "latin_name": "Pavo cristatus",
+        "category": "Bird",
+        "description": "<p>Colloquially known as the peacock, the Indian peafowl (or Pavo cristatus) is a large bird native to Southern Asia but which humans have introduced worldwide. The males – peacocks – are famous for their bright blue shiny feathers and extremely large ornamental tail, which they fan out to show off the size and distinctive appearance of their eye-spotted feathers. This is designed both to impress females and intimidate other males. Female peafowl – peahens – look very different to their male counterparts, sporting brown feathers, a flash of blue on the back of their necks, and no tail fan. However, both sexes have a feathered crest on their head.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/indianpeafowl.jpg",
+        "slug": "indian-peafowl",
+        "key": "indian-peafowl"
+    },
+    {
+        "name": "Indian Rhinoceros",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Grassland",
+            "Temperate"
+        ],
+        "can_swim": true,
+        "status": "Vulnerable",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 39,
+            "female": 39
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 1000,
+            "land_additional": 250,
+            "water_additional": 19,
+            "climbable_additional": 0,
+            "water": 37,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 13,
+                "max": 40
+            },
+            "fence": {
+                "grade": 4,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 2
+                },
+                "male": 1,
+                "female": 1
+            }
+        },
+        "latin_name": "Rhinoceros unicornis",
+        "category": "Mammal",
+        "description": "<p>Also known as the ‘Greater One-Horned Rhinoceros’, the Indian Rhinoceros (or Rhinoceros unicornis) is a large grazing ungulate native to the river basins of Northern India, Nepal and Bhutan. The species can be distinguished by its short, thick horn and brown-grey bumpy skin, which is often likened to plate armour. Male rhinos are bigger than females – the former averaging 2100kg and 3.7m long, compared to the latter’s average of 1600kg and 3.2m. As well as their difference in size, males look different thanks to their large neck folds.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/indianrhinoceros.jpg",
+        "slug": "indian-rhinoceros",
+        "key": "indian-rhinoceros"
+    },
+    {
+        "name": "Japanese Macaque",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Taiga",
+            "Temperate"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 30,
+            "female": 30
+        },
+        "habitat_requirements": {
+            "guest_enter": true,
+            "exhibit": false,
+            "land": 300,
+            "land_additional": 6,
+            "water_additional": 0,
+            "climbable_additional": 8,
+            "water": 0,
+            "climbable": 20,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": -15,
+                "max": 29
+            },
+            "fence": {
+                "grade": 1,
+                "height": 1,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 8,
+                    "max": 50
+                },
+                "male": 17,
+                "female": 33
+            }
+        },
+        "latin_name": "Macaca fuscata",
+        "category": "Mammal",
+        "description": "<p>The Japanese macaque (or Macaca fuscata) is a species of monkey endemic to the islands of Japan. It lives in a variety of environments, including the sub-arctic forests of Japan’s northern regions, and is therefore also known as the snow monkey. It has a thick beige fur coat, white belly and pink face, with males measuring an average of 57cm long and weighing 11kg. Females are slightly smaller, averaging 52cm long and weighing 8kg. Both sexes live in groups of between 10 to 160 individuals, comprising related females with strong bonds, as well as unrelated males that have immigrated in from other groups. The species is not endangered and is surviving well in the wild – so much so that, when numbers get too high, macaques may be culled to prevent damage to crops and trees.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_japanesemacaque.jpg",
+        "slug": "japanese-macaque",
+        "key": "japanese-macaque"
+    },
+    {
+        "name": "Komodo Dragon",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Grassland",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Vulnerable",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 26,
+            "female": 26
+        },
+        "habitat_requirements": {
+            "guest_enter": true,
+            "exhibit": false,
+            "land": 600,
+            "land_additional": 80,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 12,
+                "max": 42
+            },
+            "fence": {
+                "grade": 2,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 2
+                },
+                "male": 1,
+                "female": 1
+            }
+        },
+        "latin_name": "Varanus komodoensis",
+        "category": "Reptile",
+        "description": "<p>The Komodo dragon (or Varanus komodoensis) is a large species of reptile that lives on the Indonesian isles of Komodo, Rinca, Flores and Gili Motang. They are a dull green-brown in colour with wide set limbs with a wide gape, have a long, muscular tail, and a yellow forked tongue. The males reach an average length of 2.59m and usually weigh between 79 and 91kg, whereas the females are smaller, averaging 2.29m long and between 68 and 73kg.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/komododragon.jpg",
+        "slug": "komodo-dragon",
+        "key": "komodo-dragon"
+    },
+    {
+        "name": "Mandrill",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Vulnerable",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 32,
+            "female": 32
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 400,
+            "land_additional": 8,
+            "water_additional": 0,
+            "climbable_additional": 8,
+            "water": 0,
+            "climbable": 40,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 0,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 5,
+                    "max": 10
+                },
+                "male": 1,
+                "female": 9
+            }
+        },
+        "latin_name": "Mandrillus sphinx",
+        "category": "Mammal",
+        "description": "<p>The mandrill (or Mandrillus sphinx) is a species of large monkey that lives in the rainforests and plateaus of Cameroon, Gabon, Equatorial Guinea and Congo. They have olive to dark grey fur, a white stomach, and distinctive coloration on the face; a long pink strip runs down the middle of their muzzle to their nostrils, with blue pads on either side. They also have a yellow beard. Mandrill males are much larger than – and look very different from – females, with extremely bright colours on their faces and hindquarters. Males measure between 75 and 95cm, weighing 19 to 40kg, whereas females average between 55 and 66cm and weigh 15 to 30kg.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/Mandrill.jpg",
+        "slug": "mandrill",
+        "key": "mandrill"
+    },
+    {
+        "name": "Nile Monitor",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Data Deficient",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 15,
+            "female": 15
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 300,
+            "land_additional": 25,
+            "water_additional": 19,
+            "climbable_additional": 0,
+            "water": 75,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 14,
+                "max": 42
+            },
+            "fence": {
+                "grade": 2,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 3
+                },
+                "male": 1,
+                "female": 2
+            }
+        },
+        "latin_name": "Varanus niloticus",
+        "category": "Reptile",
+        "description": "<p>The Nile monitor (or Varanus niloticus) is a large species of reptile that lives in the non-desert area of Sub-Saharan Africa. They have also been introduced to the USA – specifically California and Florida – where they are regarded as an invasive species. Nile monitors much prefer environments close to water, tending to live near rivers. Both sexes look the same and are between 120 and 220cm long, with more than half of this length being their tail. Adults tend to be brown to green, with dark stripes on their body and yellow spots on their legs and head. Meanwhile, juveniles are black with bright yellow spots.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/nilemonitor.jpg",
+        "slug": "nile-monitor",
+        "key": "nile-monitor"
+    },
+    {
+        "name": "Nyala",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Shy",
+        "life_expectancy": {
+            "male": 16,
+            "female": 16
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 300,
+            "land_additional": 30,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 1,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 5
+                },
+                "male": 1,
+                "female": 4
+            }
+        },
+        "latin_name": "Tragelaphus angasii",
+        "category": "Mammal",
+        "description": "<p>The nyala (or Tragelaphus angasii) is a secretive antelope that lives in the thick undergrowth of the South-Eastern African savannah. They are sexually dimorphic, with males much larger than females; the former has a dark grey shaggy coat, yellow legs and twisted, yellow tipped horns, whereas the latter are tan in colour. Both sexes also have vertical white stripes on their back. Males measure between 0.9 and 1.1m tall, 1.35 to 1.95m long, and weigh 98 to 125 kg. Females are between 0.75 and 0.9m tall, 1.35m to 1.95m long, and weigh between 50 and 68kg.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/Nyala.jpg",
+        "slug": "nyala",
+        "key": "nyala"
+    },
+    {
+        "name": "Okapi",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Endangered",
+        "exhibit": false,
+        "relationship_human": "Shy",
+        "life_expectancy": {
+            "male": 26,
+            "female": 26
+        },
+        "habitat_requirements": {
+            "guest_enter": true,
+            "exhibit": false,
+            "land": 1081,
+            "land_additional": 125,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 2
+                },
+                "male": 1,
+                "female": 1
+            }
+        },
+        "latin_name": "Okapia johnstoni",
+        "category": "Mammal",
+        "description": "<p>The okapi (or Okapia johnstoni) is a secretive species native to the dense forests of the Democratic Republic of Congo. They have a distinctive appearance with a grey-white face, dark brown coat across their torso, as well as bright white stripes across their legs and hindquarters. The sexes differ slightly as the males also have small horns, whereas females have whorls of hair in the equivalent area. Both average 1.4 to 1.6m tall and 2.4 to 26m long.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/Okapi.jpg",
+        "slug": "okapi",
+        "key": "okapi"
+    },
+    {
+        "name": "Plains Zebra",
+        "latin_name": "Equus quagga",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland"
+        ],
+        "can_swim": true,
+        "status": "Near Threatened",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 25,
+            "female": 25
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 510,
+            "land_additional": 180,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 1,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 3,
+                    "max": 6
+                },
+                "male": 1,
+                "female": 5
+            }
+        },
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_plainszebra.jpg",
+        "description": "<p>The plains zebra (or Equus quagga) is native to Eastern and Southern Africa, preferring to live in easy reach of water sources on the savannah. The species is divided into six subspecies, separated due to different features, usually varying strip patterns, and lack of interbreeding between groups. Plains zebra have the black and white stripes famous of all zebra, but are smaller than Grevy’s zebra and larger than mountain zebra. Males and females can both be 1.10 to 1.45m in height, and between 2.17 and 2.46m in length, although males are generally 10% larger than females.</p>",
+        "category": "Mammal",
+        "slug": "plains-zebra",
+        "key": "plains-zebra"
+    },
+    {
+        "name": "Pronghorn Antelope",
+        "continent": [
+            "North America"
+        ],
+        "biome": [
+            "Grassland",
+            "Temperate"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Shy",
+        "life_expectancy": {
+            "male": 11,
+            "female": 11
+        },
+        "habitat_requirements": {
+            "guest_enter": true,
+            "exhibit": false,
+            "land": 370,
+            "land_additional": 60,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 2,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 1,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 11
+                },
+                "male": 1,
+                "female": 10
+            }
+        },
+        "latin_name": "Antilocapra americana",
+        "category": "Mammal",
+        "description": "<p>The pronghorn antelope (or Antilocapra americana) is, in fact, not a true antelope. While the North American mammal occupies a similar environmental niche to antelopes – hence the same name being used – for this reason it is often simply referred to as the ‘pronghorn’. It has a tan coloured coat on its back and sides, a white underbelly, and white chevron-shaped markings on its neck. The species stands an average of 81 to 104cm tall at the shoulder, measuring between 1.3 and 1.5m in length. The males are also 10% larger than the females, have a distinct dark streak down their muzzle, and boast longer, thicker horns.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/pronghornantelope.jpg",
+        "slug": "pronghorn-antelope",
+        "key": "pronghorn-antelope"
+    },
+    {
+        "name": "Pygmy Hippo",
+        "latin_name": "Hexaprotodon liberiensis",
+        "category": "Mammal",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/PygmyHippo.jpg",
+        "description": "<p>The pygmy hippopotamus (or Hexaprotodon liberiensis) is a species of medium-sized mammal that lives in the rainforests and swamps of Sierra Leone, Liberia, Guinea and the Ivory Coast. They have grey-brown skin, small ears and sturdy legs with four-toed feet, and can usually be found near rivers, where they spend most of their time wallowing and sleeping. On average they are between 75 to 100cm tall, 150 to 175cm long and weigh between 180 and 275kg.</p>\n",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Aquatic",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Endangered",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 30,
+            "female": 30
+        },
+        "habitat_requirements": {
+            "guest_enter": true,
+            "exhibit": false,
+            "land": 270,
+            "land_additional": 30,
+            "water_additional": 30,
+            "climbable_additional": 0,
+            "water": 270,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 12,
+                "max": 37
+            },
+            "fence": {
+                "grade": 3,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 2,
+                    "max": 4
+                },
+                "male": 1,
+                "female": 3
+            }
+        },
+        "slug": "pygmy-hippo",
+        "key": "pygmy-hippo"
+    },
+    {
+        "name": "Red Panda",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Taiga",
+            "Temperate"
+        ],
+        "can_swim": true,
+        "status": "Endangered",
+        "exhibit": false,
+        "relationship_human": "Shy",
+        "life_expectancy": {
+            "male": 10,
+            "female": 10
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 220,
+            "land_additional": 10,
+            "water_additional": 0,
+            "climbable_additional": 16,
+            "water": 0,
+            "climbable": 40,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 0,
+                "max": 29
+            },
+            "fence": {
+                "grade": 2,
+                "height": 0,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 2
+                },
+                "male": 1,
+                "female": 1
+            }
+        },
+        "latin_name": "Ailurus fulgens",
+        "category": "Mammal",
+        "description": "<p>The red panda (or Ailurus fulgens) is a small mammal that lives in the woodlands of the Himalayas and multiple areas of China. Despite its name, it is not closely related to the giant panda, however it does share some characteristics such as a diet mainly consisting of bamboo. With red fur, black legs, a ringed tail, and white ears and snout, the red panda averages between 50 and 64cm from head to body, with a tail 28 to 59cm long. They are excellent climbers and good swimmers that enjoy living in a varied environment.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_redpanda.jpg",
+        "slug": "red-panda",
+        "key": "red-panda"
+    },
+    {
+        "name": "Red Ruffed Lemur",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Critically Endangered",
+        "exhibit": false,
+        "relationship_human": "Neutral",
+        "life_expectancy": {
+            "male": 26,
+            "female": 26
+        },
+        "habitat_requirements": {
+            "guest_enter": true,
+            "exhibit": false,
+            "land": 210,
+            "land_additional": 8,
+            "water_additional": 0,
+            "climbable_additional": 4,
+            "water": 0,
+            "climbable": 20,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 10,
+                "max": 40
+            },
+            "fence": {
+                "grade": 1,
+                "height": 0,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 3,
+                    "max": 30
+                },
+                "male": 1,
+                "female": 29
+            }
+        },
+        "latin_name": "Varecia rubra",
+        "category": "Mammal",
+        "description": "<p>The red-ruffed lemur (or Varecia rubra) is a critically endangered species of primate native to the Northern Masoala rainforests of Madagascar. With yellow eyes and a black pointed face surrounded by the distinctive red ruff, the lemur’s body is covered in thick red fur and it has a black tail, hands and feet. It also has a white patch on the top of its head.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_redruffedlemur.jpg",
+        "slug": "red-ruffed-lemur",
+        "key": "red-ruffed-lemur"
+    },
+    {
+        "name": "Reticulated Giraffe",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Endangered",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 25,
+            "female": 25
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 1306,
+            "land_additional": 332,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 3,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 2,
+                    "max": 12
+                },
+                "male": 4,
+                "female": 8
+            }
+        },
+        "latin_name": "Giraffa camelopardalis reticulata",
+        "category": "Mammal",
+        "description": "<p>Also known as the Somali giraffe, the reticulated giraffe (or Giraffa camelopardalis reticulata) is a subspecies that lives in the savannahs and open forests of Kenya, Somalia and Ethiopia. The reticulated giraffe is distinguishable from other subspecies thanks to its large, polygonal spots, tan to red in colour, that are divided by white interconnecting lines on the animal’s fur. While both sexes are extremely tall, the males are significantly taller than females and have well developed bony horns on their head; the horns of the female are smaller and thinner. Giraffes are famous for their long neck, which is used for accessing leaves that are out of reach to other animals.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/reticulatedgiraffe.jpg",
+        "slug": "reticulated-giraffe",
+        "key": "reticulated-giraffe"
+    },
+    {
+        "name": "Ring Tailed Lemur",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Endangered",
+        "exhibit": false,
+        "relationship_human": "Neutral",
+        "life_expectancy": {
+            "male": 21,
+            "female": 21
+        },
+        "habitat_requirements": {
+            "guest_enter": true,
+            "exhibit": false,
+            "land": 210,
+            "land_additional": 8,
+            "water_additional": 0,
+            "climbable_additional": 4,
+            "water": 0,
+            "climbable": 20,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 10,
+                "max": 40
+            },
+            "fence": {
+                "grade": 1,
+                "height": 0,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 3,
+                    "max": 30
+                },
+                "male": 1,
+                "female": 29
+            }
+        },
+        "slug": "ring-tailed-lemur",
+        "key": "ring-tailed-lemur",
+        "latin_name": "Lemur catta",
+        "category": "Mammal",
+        "description": "<p>Like all species of lemur, the ring-tailed lemur (or Lemur catta) is native to Madagascar and is not naturally found anywhere else in the world. Ring-tailed lemurs have a pointed muzzle, cat-like ears, and a long tail that has 12 or 13 white rings, 13 or 14 black rings, and a tip that is always black. They are usually between 39 and 46cm in size with a tail of 56 to 63cm and live in groups called ‘troops’ that will travel and forage together. Ring-tailed lemurs are omnivorous and will eat fruit, leaves, insects and most other food they can find.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/ringtailedlemur.jpg"
+    },
+    {
+        "name": "Sable Antelope",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Neutral",
+        "life_expectancy": {
+            "male": 20,
+            "female": 20
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 450,
+            "land_additional": 60,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 1,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 11
+                },
+                "male": 1,
+                "female": 10
+            }
+        },
+        "latin_name": "Hippotragus niger",
+        "category": "Mammal",
+        "description": "<p>The sable antelope (or Hippotragus niger) is a species of ungulate that lives in South-Eastern Africa. They have long, notched horns that curve backwards from their face, a tan-to-black coat with a white underbelly, chin and throat, as well as white tear-marks on their face. Males are larger, darker and have longer horns than females. Both sexes graze and browse on the savannah, preferring lightly wooded areas to completely open ones.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_sableantelope.jpg",
+        "slug": "sable-antelope",
+        "key": "sable-antelope"
+    },
+    {
+        "name": "Saltwater Crocodile",
+        "continent": [
+            "Asia",
+            "Oceania"
+        ],
+        "biome": [
+            "Aquatic",
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 72,
+            "female": 72
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 210,
+            "land_additional": 50,
+            "water_additional": 105,
+            "climbable_additional": 0,
+            "water": 210,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 12,
+                "max": 42
+            },
+            "fence": {
+                "grade": 2,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 2
+                },
+                "male": 1,
+                "female": 1
+            }
+        },
+        "latin_name": "Crocodylus porosus",
+        "category": "Reptile",
+        "description": "<p>The saltwater crocodile (or Crocodylus porosus) is an extremely large species of reptile native to the coastal areas of South-east Asia, North Australia and East India. It is an effective and dangerous apex predator, with the males capable of growing between 3.5 to 6m long, and weighing between 200 and 1000kg. Females are significantly smaller, averaging 2.7 to 3.4m and 120-200kg. Both sexes have a broader snout and body compared to other crocodile species, and are tan to greenish grey in colour; there is variation in colour among different populations.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_saltwatercrocodile.jpg",
+        "slug": "saltwater-crocodile",
+        "key": "saltwater-crocodile"
+    },
+    {
+        "name": "Siberian Tiger",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Taiga",
+            "Temperate"
+        ],
+        "can_swim": true,
+        "status": "Endangered",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 18,
+            "female": 18
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 705,
+            "land_additional": 111,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": -4,
+                "max": 28
+            },
+            "fence": {
+                "grade": 3,
+                "height": 3,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 2
+                },
+                "male": 1,
+                "female": 1
+            }
+        },
+        "latin_name": "Panthera tigris altaica",
+        "category": "Mammal",
+        "description": "<p>The Siberian tiger (or Panthera tigris altaica) – also known as the Amur tiger – is the largest of the cat species. It is characterised by orange-yellow fur with thin, black stripes and a paler undercoat on its belly. Its head is also very large, with strong jaws containing large canines.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/SiberianTiger.jpg",
+        "slug": "siberian-tiger",
+        "key": "siberian-tiger"
+    },
+    {
+        "name": "Snow Leopard",
+        "continent": [
+            "Asia"
+        ],
+        "biome": [
+            "Taiga"
+        ],
+        "can_swim": true,
+        "status": "Vulnerable",
+        "exhibit": false,
+        "relationship_human": "Shy",
+        "life_expectancy": {
+            "male": 20,
+            "female": 20
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 705,
+            "land_additional": 111,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": -4,
+                "max": 22
+            },
+            "fence": {
+                "grade": 2,
+                "height": 3,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 2
+                },
+                "male": 1,
+                "female": 1
+            }
+        },
+        "latin_name": "Panthera uncia",
+        "category": "Mammal",
+        "description": "<p>Identifiable by its white to grey fur, black rosettes across its body, and black spots on its face, the snow leopard (or Panthera uncia) lives in the mountains of Nepal, Tibet, Northern India, Southern Siberia, Pakistan, Bhutan and Mongolia. The animal’s fur is extremely thick and well insulated, which helps it comfortably withstand sub-zero temperatures as low as -25oC. They mostly feed on mountain goats and sheep, but also hunt birds and rodents.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/snowleopard.jpg",
+        "slug": "snow-leopard",
+        "key": "snow-leopard"
+    },
+    {
+        "name": "Spotted Hyena",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 20,
+            "female": 20
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 1162,
+            "land_additional": 92,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 1,
+                    "max": 4
+                },
+                "male": 2,
+                "female": 2
+            }
+        },
+        "latin_name": "Crocuta crocuta",
+        "category": "Mammal",
+        "description": "<p>The spotted hyena, also known as the laughing hyena (Crocuta crocuta), is native to Sub-Saharan Africa. They are generalist predators that can live in most environments – although they are not found in rainforests or deserts – and their strong forelimbs, well-muscled neck, and comparatively weaker hindlimbs give them a distinctive appearance. Their head is broad with a wide snout and they have sandy fur with black spots, as well as a mane down their neck to their mid back.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/SpottedHyena.jpg",
+        "slug": "spotted-hyena",
+        "key": "spotted-hyena"
+    },
+    {
+        "name": "Springbok",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Shy",
+        "life_expectancy": {
+            "male": 10,
+            "female": 10
+        },
+        "habitat_requirements": {
+            "guest_enter": true,
+            "exhibit": false,
+            "land": 425,
+            "land_additional": 55,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 1,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 3,
+                    "max": 35
+                },
+                "male": 1,
+                "female": 34
+            }
+        },
+        "latin_name": "Antidorcas marsupialis",
+        "category": "Mammal",
+        "description": "<p>The springbok (or Antidorcas marsupialis) is a small species of antelope native to the savannahs of Southern Africa. They have lyre-shaped black horns, a tan coat with dark brown markings, a white belly and face, with dark brown tear marks from their eyes to their muzzle. Males and females are a similar size and both have horns, although the male’s are more robust.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/Springbok.jpg",
+        "slug": "springbok",
+        "key": "springbok"
+    },
+    {
+        "name": "Thomson's Gazelle",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Shy",
+        "life_expectancy": {
+            "male": 11,
+            "female": 11
+        },
+        "habitat_requirements": {
+            "guest_enter": true,
+            "exhibit": false,
+            "land": 425,
+            "land_additional": 55,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 2,
+                "height": 1,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 3,
+                    "max": 36
+                },
+                "male": 1,
+                "female": 35
+            }
+        },
+        "slug": "thomsons-gazelle",
+        "key": "thomsons-gazelle",
+        "latin_name": "Eudorcas thomsonii",
+        "category": "Mammal",
+        "description": "<p>Thomson’s gazelle (or Eudorcas thomsonii) is a small species of grazing mammal that lives in Africa’s Serengeti regions of Tanzania and Kenya. It prefers to live in dry grassland – although is also found in woodland – and has a tan coloured back, white underside and a dark stripe on their flank. They also have a tan muzzle, white cheeks and eye region, as well as black streaks running from their eyes to the start of the muzzle. Both sexes have dark, heavily ridged horns – although the male’s are longer and more robust – they both measure an average of 55 to 82cm tall, 80 to 120cm long, and weigh between 20 and 35kg.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_thomsonsgazelle.jpg"
+    },
+    {
+        "name": "Timber Wolf",
+        "continent": [
+            "Asia",
+            "Europe",
+            "North America"
+        ],
+        "biome": [
+            "Taiga",
+            "Temperate",
+            "Tundra"
+        ],
+        "can_swim": true,
+        "status": "Least Concern",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 12,
+            "female": 12
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 1162,
+            "land_additional": 92,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": -8,
+                "max": 29
+            },
+            "fence": {
+                "grade": 2,
+                "height": 0,
+                "climbproof": false
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 2,
+                    "max": 12
+                },
+                "male": 12,
+                "female": 12
+            }
+        },
+        "latin_name": "Canis lupus",
+        "category": "Mammal",
+        "description": "<p>Timber wolves (or Canis lupus) are a large canid species that live across most of the Northern hemisphere. Also known as grey wolves, they are large generalist predators that will eat most prey they can catch, and which are capable of living in a wide variety of different environments. The appearance of timber wolves can vary widely and is mostly dependent on which population is being observed. There are 38 subspecies, each with adaptations to their specific environments, thus causing their varied appearance. In general, they have a mottled grey-brown fur coat, pointed ears and a long straight snout. In terms of size, the wolves have a slim build with a deep rib cage and long legs.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_timberwolf.jpg",
+        "slug": "timber-wolf",
+        "key": "timber-wolf"
+    },
+    {
+        "name": "West African Lion",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Grassland"
+        ],
+        "can_swim": true,
+        "status": "Critically Endangered",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 14,
+            "female": 14
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 705,
+            "land_additional": 111,
+            "water_additional": 0,
+            "climbable_additional": 0,
+            "water": 0,
+            "climbable": 0,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 3,
+                "height": 3,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 2,
+                    "max": 30
+                },
+                "male": 1,
+                "female": 29
+            }
+        },
+        "latin_name": "Panthera leo ",
+        "category": "Mammal",
+        "description": "<p>Although there are an estimated 20,000 lions in the African wilderness today, the West African lion (or Panthera leo senegalensis) numbers far, far fewer. Only 250 still remain across the entire continent, making the subspecies one of the most threatened of its kind in the world. It currently falls under the ‘critically endangered’ conservation status.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/WestAfricanLion.jpg",
+        "slug": "west-african-lion",
+        "key": "west-african-lion"
+    },
+    {
+        "name": "Western Chimpanzee",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Critically Endangered",
+        "exhibit": false,
+        "relationship_human": "Confident",
+        "life_expectancy": {
+            "male": 51,
+            "female": 51
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 780,
+            "land_additional": 50,
+            "water_additional": 0,
+            "climbable_additional": 30,
+            "water": 0,
+            "climbable": 80,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 3,
+                "height": 1,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 5,
+                    "max": 15
+                },
+                "male": 10,
+                "female": 10
+            }
+        },
+        "latin_name": "Pan troglodytes verus",
+        "category": "Mammal",
+        "description": "<p>The Western chimpanzee (or Pan troglodytes verus) is a subspecies of the common chimpanzee native to the forests of Guinea, Liberia, Senegal, Sierra Leone and the Ivory Coast. Along with bonobos, they are the closest living relatives of human beings, sharing more than 98% of our DNA. </p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/WesternChimpanzee.jpg",
+        "slug": "western-chimpanzee",
+        "key": "western-chimpanzee"
+    },
+    {
+        "name": "Western Lowland Gorilla",
+        "continent": [
+            "Africa"
+        ],
+        "biome": [
+            "Tropical"
+        ],
+        "can_swim": true,
+        "status": "Critically Endangered",
+        "exhibit": false,
+        "relationship_human": "Neutral",
+        "life_expectancy": {
+            "male": 41,
+            "female": 41
+        },
+        "habitat_requirements": {
+            "guest_enter": false,
+            "exhibit": false,
+            "land": 780,
+            "land_additional": 50,
+            "water_additional": 0,
+            "climbable_additional": 20,
+            "water": 0,
+            "climbable": 40,
+            "humidity": {
+                "min": 0,
+                "max": 0
+            },
+            "temperature": {
+                "min": 8,
+                "max": 40
+            },
+            "fence": {
+                "grade": 3,
+                "height": 0,
+                "climbproof": true
+            },
+            "group_mixed": {
+                "size": {
+                    "min": 3,
+                    "max": 6
+                },
+                "male": 1,
+                "female": 4
+            }
+        },
+        "latin_name": "Gorilla gorilla gorilla",
+        "category": "Mammal",
+        "description": "<p>The Western lowland gorilla (or Gorilla gorilla gorilla) is native to Cameroon, Equatorial Guinea, Gabon, Republic of the Congo and Southern Niger, living and foraging in the rainforests, swamp forests and abandoned farmland there. They have black skin, dark forward-facing eyes, a prominent brow ridge, large nostrils and coarse hair which covers most of their body except the face, ears, hands and feet. Males are much larger than females and, when they mature, the hair on their backs becomes grey and they are identified as ‘silverbacks’. Gorillas live in small groups with a silverback in control of the females, younger males and juveniles.</p>\n",
+        "image_url": "https://cms-cdn.zaonce.net/2019-10/WesternLowlandGorilla.jpg",
+        "slug": "western-lowland-gorilla",
+        "key": "western-lowland-gorilla"
+    }
+]
