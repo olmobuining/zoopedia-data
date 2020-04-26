@@ -1,13 +1,9 @@
 [
   {
     "name": "Aardvark",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland",
-      "Tropical"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland",
+      "Tropical"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -70,13 +66,9 @@
   },
   {
     "name": "African Buffalo",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland",
-      "Tropical"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland",
+      "Tropical"],
     "can_swim": true,
     "status": "Near Threatened",
     "exhibit": false,
@@ -139,14 +131,10 @@
   },
   {
     "name": "African Elephant",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Desert",
+    "continent": ["Africa"],
+    "biome": ["Desert",
       "Grassland",
-      "Tropical"
-    ],
+      "Tropical"],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -209,12 +197,8 @@
   },
   {
     "name": "African Wild Dog",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland"],
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
@@ -277,13 +261,9 @@
   },
   {
     "name": "Aldabra Giant Tortoise",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland",
-      "Temperate"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland",
+      "Temperate"],
     "can_swim": false,
     "status": "Vulnerable",
     "exhibit": false,
@@ -346,12 +326,8 @@
   },
   {
     "name": "American Bison",
-    "continent": [
-      "North America"
-    ],
-    "biome": [
-      "Grassland"
-    ],
+    "continent": ["North America"],
+    "biome": ["Grassland"],
     "can_swim": true,
     "status": "Near Threatened",
     "exhibit": false,
@@ -414,13 +390,9 @@
   },
   {
     "name": "Arctic Wolf",
-    "continent": [
-      "North America"
-    ],
-    "biome": [
-      "Taiga",
-      "Tundra"
-    ],
+    "continent": ["North America"],
+    "biome": ["Taiga",
+      "Tundra"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -483,13 +455,9 @@
   },
   {
     "name": "Bactrian Camel",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Desert",
-      "Temperate"
-    ],
+    "continent": ["Asia"],
+    "biome": ["Desert",
+      "Temperate"],
     "can_swim": true,
     "status": "Domesticated",
     "exhibit": false,
@@ -552,15 +520,11 @@
   },
   {
     "name": "Baird's Tapir",
-    "continent": [
-      "Central America",
-      "South America"
-    ],
-    "biome": [
-      "Grassland",
+    "continent": ["Central America",
+      "South America"],
+    "biome": ["Grassland",
       "Temperate",
-      "Tropical"
-    ],
+      "Tropical"],
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
@@ -623,14 +587,10 @@
   },
   {
     "name": "Bengal Tiger",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Grassland",
+    "continent": ["Asia"],
+    "biome": ["Grassland",
       "Temperate",
-      "Tropical"
-    ],
+      "Tropical"],
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
@@ -693,12 +653,8 @@
   },
   {
     "name": "Black Wildebeest",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -761,12 +717,8 @@
   },
   {
     "name": "Bongo",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Tropical"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Tropical"],
     "can_swim": true,
     "status": "Near Threatened",
     "exhibit": false,
@@ -829,12 +781,8 @@
   },
   {
     "name": "Bonobo",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Tropical"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Tropical"],
     "can_swim": false,
     "status": "Endangered",
     "exhibit": false,
@@ -897,12 +845,8 @@
   },
   {
     "name": "Bornean Orangutan",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Tropical"
-    ],
+    "continent": ["Asia"],
+    "biome": ["Tropical"],
     "can_swim": false,
     "status": "Critically Endangered",
     "exhibit": false,
@@ -965,12 +909,8 @@
   },
   {
     "name": "Cheetah",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland"],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -1033,13 +973,9 @@
   },
   {
     "name": "Chinese Pangolin",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Temperate",
-      "Tropical"
-    ],
+    "continent": ["Asia"],
+    "biome": ["Temperate",
+      "Tropical"],
     "can_swim": true,
     "status": "Critically Endangered",
     "exhibit": false,
@@ -1102,14 +1038,10 @@
   },
   {
     "name": "Colombian White-Faced Capuchin Monkey",
-    "continent": [
-      "South America",
-      "North America"
-    ],
-    "biome": [
-      "Temperate",
-      "Tropical"
-    ],
+    "continent": ["South America",
+      "North America"],
+    "biome": ["Temperate",
+      "Tropical"],
     "can_swim": false,
     "status": "Least Concern",
     "exhibit": false,
@@ -1172,12 +1104,8 @@
   },
   {
     "name": "Common Ostrich",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland"],
     "can_swim": false,
     "status": "Least Concern",
     "exhibit": false,
@@ -1240,13 +1168,9 @@
   },
   {
     "name": "Common Warthog",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland",
-      "Tropical"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland",
+      "Tropical"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -1309,13 +1233,9 @@
   },
   {
     "name": "Dall Sheep",
-    "continent": [
-      "North America"
-    ],
-    "biome": [
-      "Taiga",
-      "Tundra"
-    ],
+    "continent": ["North America"],
+    "biome": ["Taiga",
+      "Tundra"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -1378,13 +1298,9 @@
   },
   {
     "name": "Formosan Black Bear",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Taiga",
-      "Temperate"
-    ],
+    "continent": ["Asia"],
+    "biome": ["Taiga",
+      "Temperate"],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -1447,12 +1363,8 @@
   },
   {
     "name": "Galapagos Giant Tortoise",
-    "continent": [
-      "South America"
-    ],
-    "biome": [
-      "Tropical"
-    ],
+    "continent": ["South America"],
+    "biome": ["Tropical"],
     "can_swim": false,
     "status": "Vulnerable",
     "exhibit": false,
@@ -1515,12 +1427,8 @@
   },
   {
     "name": "Gemsbok",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Desert"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Desert"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -1583,14 +1491,10 @@
   },
   {
     "name": "Gharial",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Aquatic",
+    "continent": ["Asia"],
+    "biome": ["Aquatic",
       "Temperate",
-      "Tropical"
-    ],
+      "Tropical"],
     "can_swim": true,
     "status": "Critically Endangered",
     "exhibit": false,
@@ -1653,14 +1557,10 @@
   },
   {
     "name": "Giant Anteater",
-    "continent": [
-      "South America",
-      "North America"
-    ],
-    "biome": [
-      "Grassland",
-      "Tropical"
-    ],
+    "continent": ["South America",
+      "North America"],
+    "biome": ["Grassland",
+      "Tropical"],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -1723,12 +1623,8 @@
   },
   {
     "name": "Giant Panda",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Temperate"
-    ],
+    "continent": ["Asia"],
+    "biome": ["Temperate"],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -1791,17 +1687,13 @@
   },
   {
     "name": "Greater Flamingo",
-    "continent": [
-      "Africa",
+    "continent": ["Africa",
       "Asia",
-      "Europe"
-    ],
-    "biome": [
-      "Aquatic",
+      "Europe"],
+    "biome": ["Aquatic",
       "Grassland",
       "Temperate",
-      "Tropical"
-    ],
+      "Tropical"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -1864,14 +1756,10 @@
   },
   {
     "name": "Grizzly Bear",
-    "continent": [
-      "North America"
-    ],
-    "biome": [
-      "Taiga",
+    "continent": ["North America"],
+    "biome": ["Taiga",
       "Temperate",
-      "Tundra"
-    ],
+      "Tundra"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -1934,13 +1822,9 @@
   },
   {
     "name": "Himalayan Brown Bear",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Taiga",
-      "Tundra"
-    ],
+    "continent": ["Asia"],
+    "biome": ["Taiga",
+      "Tundra"],
     "can_swim": true,
     "status": "Critically Endangered",
     "exhibit": false,
@@ -2003,13 +1887,9 @@
   },
   {
     "name": "Hippopotamus",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Aquatic",
-      "Grassland"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Aquatic",
+      "Grassland"],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -2072,14 +1952,10 @@
   },
   {
     "name": "Indian Elephant",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Grassland",
+    "continent": ["Asia"],
+    "biome": ["Grassland",
       "Temperate",
-      "Tropical"
-    ],
+      "Tropical"],
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
@@ -2142,12 +2018,8 @@
   },
   {
     "name": "Indian Peafowl",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Temperate"
-    ],
+    "continent": ["Asia"],
+    "biome": ["Temperate"],
     "can_swim": false,
     "status": "Least Concern",
     "exhibit": false,
@@ -2210,13 +2082,9 @@
   },
   {
     "name": "Indian Rhinoceros",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Grassland",
-      "Temperate"
-    ],
+    "continent": ["Asia"],
+    "biome": ["Grassland",
+      "Temperate"],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -2279,15 +2147,11 @@
   },
   {
     "name": "Jaguar",
-    "continent": [
-      "South America",
-      "North America"
-    ],
-    "biome": [
-      "Grassland",
+    "continent": ["South America",
+      "North America"],
+    "biome": ["Grassland",
       "Tropical",
-      "Temperate"
-    ],
+      "Temperate"],
     "can_swim": true,
     "status": "Near Threatened",
     "exhibit": false,
@@ -2350,13 +2214,9 @@
   },
   {
     "name": "Japanese Macaque",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Taiga",
-      "Temperate"
-    ],
+    "continent": ["Asia"],
+    "biome": ["Taiga",
+      "Temperate"],
     "can_swim": false,
     "status": "Least Concern",
     "exhibit": false,
@@ -2419,13 +2279,9 @@
   },
   {
     "name": "Komodo Dragon",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Grassland",
-      "Tropical"
-    ],
+    "continent": ["Asia"],
+    "biome": ["Grassland",
+      "Tropical"],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -2488,14 +2344,10 @@
   },
   {
     "name": "Llama",
-    "continent": [
-      "South America"
-    ],
-    "biome": [
-      "Taiga",
+    "continent": ["South America"],
+    "biome": ["Taiga",
       "Grassland",
-      "Temperate"
-    ],
+      "Temperate"],
     "can_swim": true,
     "status": "Domesticated",
     "exhibit": false,
@@ -2558,12 +2410,8 @@
   },
   {
     "name": "Mandrill",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Tropical"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Tropical"],
     "can_swim": false,
     "status": "Vulnerable",
     "exhibit": false,
@@ -2626,13 +2474,9 @@
   },
   {
     "name": "Nile Monitor",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland",
-      "Tropical"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland",
+      "Tropical"],
     "can_swim": true,
     "status": "Data Deficient",
     "exhibit": false,
@@ -2695,13 +2539,9 @@
   },
   {
     "name": "Nyala",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland",
-      "Tropical"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland",
+      "Tropical"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -2764,12 +2604,8 @@
   },
   {
     "name": "Okapi",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Tropical"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Tropical"],
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
@@ -2833,12 +2669,8 @@
   {
     "name": "Plains Zebra",
     "latin_name": "Equus quagga",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland"],
     "can_swim": true,
     "status": "Near Threatened",
     "exhibit": false,
@@ -2901,14 +2733,10 @@
   {
     "name": "Polar Bear",
     "latin_name": "Ursus maritimus",
-    "continent": [
-      "Europe",
-      "North America"
-    ],
-    "biome": [
-      "Aquatic",
-      "Tundra"
-    ],
+    "continent": ["Europe",
+      "North America"],
+    "biome": ["Aquatic",
+      "Tundra"],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -2970,13 +2798,9 @@
   },
   {
     "name": "Pronghorn Antelope",
-    "continent": [
-      "North America"
-    ],
-    "biome": [
-      "Grassland",
-      "Temperate"
-    ],
+    "continent": ["North America"],
+    "biome": ["Grassland",
+      "Temperate"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -3039,13 +2863,9 @@
   },
   {
     "name": "Pygmy Hippo",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Aquatic",
-      "Tropical"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Aquatic",
+      "Tropical"],
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
@@ -3108,13 +2928,9 @@
   },
   {
     "name": "Red Panda",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Taiga",
-      "Temperate"
-    ],
+    "continent": ["Asia"],
+    "biome": ["Taiga",
+      "Temperate"],
     "can_swim": false,
     "status": "Endangered",
     "exhibit": false,
@@ -3177,12 +2993,8 @@
   },
   {
     "name": "Red Ruffed Lemur",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Tropical"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Tropical"],
     "can_swim": false,
     "status": "Critically Endangered",
     "exhibit": false,
@@ -3245,14 +3057,10 @@
   },
   {
     "name": "Reindeer",
-    "continent": [
-      "Europe",
-      "North America"
-    ],
-    "biome": [
-      "Taiga",
-      "Tundra"
-    ],
+    "continent": ["Europe",
+      "North America"],
+    "biome": ["Taiga",
+      "Tundra"],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -3315,13 +3123,9 @@
   },
   {
     "name": "Reticulated Giraffe",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland",
-      "Tropical"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland",
+      "Tropical"],
     "can_swim": false,
     "status": "Endangered",
     "exhibit": false,
@@ -3384,12 +3188,8 @@
   },
   {
     "name": "Ring Tailed Lemur",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Tropical"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Tropical"],
     "can_swim": false,
     "status": "Endangered",
     "exhibit": false,
@@ -3452,12 +3252,8 @@
   },
   {
     "name": "Sable Antelope",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -3520,14 +3316,10 @@
   },
   {
     "name": "Saltwater Crocodile",
-    "continent": [
-      "Asia",
-      "Oceania"
-    ],
-    "biome": [
-      "Aquatic",
-      "Tropical"
-    ],
+    "continent": ["Asia",
+      "Oceania"],
+    "biome": ["Aquatic",
+      "Tropical"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -3590,13 +3382,9 @@
   },
   {
     "name": "Siberian Tiger",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Taiga",
-      "Temperate"
-    ],
+    "continent": ["Asia"],
+    "biome": ["Taiga",
+      "Temperate"],
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
@@ -3659,12 +3447,8 @@
   },
   {
     "name": "Snow Leopard",
-    "continent": [
-      "Asia"
-    ],
-    "biome": [
-      "Taiga"
-    ],
+    "continent": ["Asia"],
+    "biome": ["Taiga"],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -3727,12 +3511,8 @@
   },
   {
     "name": "Spotted Hyena",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -3795,12 +3575,8 @@
   },
   {
     "name": "Springbok",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -3863,12 +3639,8 @@
   },
   {
     "name": "Thomson's Gazelle",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -3931,16 +3703,12 @@
   },
   {
     "name": "Timber Wolf",
-    "continent": [
-      "Asia",
+    "continent": ["Asia",
       "Europe",
-      "North America"
-    ],
-    "biome": [
-      "Taiga",
+      "North America"],
+    "biome": ["Taiga",
       "Temperate",
-      "Tundra"
-    ],
+      "Tundra"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -4003,12 +3771,8 @@
   },
   {
     "name": "West African Lion",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Grassland"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Grassland"],
     "can_swim": true,
     "status": "Critically Endangered",
     "exhibit": false,
@@ -4071,12 +3835,8 @@
   },
   {
     "name": "Western Chimpanzee",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Tropical"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Tropical"],
     "can_swim": false,
     "status": "Critically Endangered",
     "exhibit": false,
@@ -4139,12 +3899,8 @@
   },
   {
     "name": "Western Lowland Gorilla",
-    "continent": [
-      "Africa"
-    ],
-    "biome": [
-      "Tropical"
-    ],
+    "continent": ["Africa"],
+    "biome": ["Tropical"],
     "can_swim": false,
     "status": "Critically Endangered",
     "exhibit": false,
