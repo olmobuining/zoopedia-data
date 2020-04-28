@@ -6,7 +6,9 @@
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Shy",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 18,
       "female": 18
@@ -30,8 +32,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 0.5,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
       },
       "group_mixed": {
         "size": {
@@ -56,7 +70,9 @@
     "can_swim": true,
     "status": "Near Threatened",
     "exhibit": false,
+    "dominance": "Dominant male bull, Female herds with age based dominance",
     "relationship_human": "neutral",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 22,
       "female": 22
@@ -80,12 +96,24 @@
       },
       "fence": {
         "grade": 3,
-        "height": 1,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 3,
+          "max": 5
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 15
+        }
       },
       "group_mixed": {
         "size": {
-          "min": 1,
+          "min": 3,
           "max": 15
         },
         "male": 1,
@@ -106,7 +134,9 @@
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
+    "dominance": "Stable dominant female in female herd. Male dominance in bachelor pods changes dependingon age/aggression",
     "relationship_human": "Confident",
+    "mating_system": "Polygynous males have multiple female mates, females have one male mate",
     "life_expectancy": {
       "male": 65,
       "female": 65
@@ -130,12 +160,24 @@
       },
       "fence": {
         "grade": 4,
-        "height": 3,
+        "height": 2,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 3,
+          "max": 5
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 15
+        }
       },
       "group_mixed": {
         "size": {
-          "min": 1,
+          "min": 3,
           "max": 15
         },
         "male": 1,
@@ -156,7 +198,9 @@
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
+    "dominance": "Alpha male and alpha female",
     "relationship_human": "Confident",
+    "mating_system": "Monogamous - alphas only",
     "life_expectancy": {
       "male": 11,
       "female": 11
@@ -180,8 +224,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 2,
+          "max": 27
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 2,
+          "max": 27
+        }
       },
       "group_mixed": {
         "size": {
@@ -203,10 +259,12 @@
     "name": "Aldabra Giant Tortoise",
     "continent": ["Africa"],
     "biome": ["Grassland", "Temperate"],
-    "can_swim": true,
+    "can_swim": false,
     "status": "Vulnerable",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Neutral",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 119,
       "female": 119
@@ -230,8 +288,20 @@
       },
       "fence": {
         "grade": 1,
-        "height": 0,
+        "height": 0.5,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 4
+        }
       },
       "group_mixed": {
         "size": {
@@ -256,7 +326,9 @@
     "can_swim": true,
     "status": "Near Threatened",
     "exhibit": false,
+    "dominance": "Matriarchal, one dominant bull",
     "relationship_human": "Neutral",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 26,
       "female": 26
@@ -280,8 +352,20 @@
       },
       "fence": {
         "grade": 3,
-        "height": 0,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 3,
+          "max": 15
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 15
+        }
       },
       "group_mixed": {
         "size": {
@@ -306,7 +390,9 @@
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "Alpha male and alpha female",
     "relationship_human": "Confident",
+    "mating_system": "Monogamous",
     "life_expectancy": {
       "male": 15,
       "female": 15
@@ -315,7 +401,7 @@
       "guest_enter": false,
       "exhibit": false,
       "land": 1162,
-      "land_additional": 0,
+      "land_additional": 92,
       "water_additional": 0,
       "climbable_additional": 0,
       "water": 0,
@@ -330,8 +416,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 2,
+          "max": 8
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 2,
+          "max": 8
+        }
       },
       "group_mixed": {
         "size": {
@@ -356,7 +454,9 @@
     "can_swim": true,
     "status": "Domesticated",
     "exhibit": false,
+    "dominance": "Dominant male",
     "relationship_human": "Confident",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 40,
       "female": 40
@@ -380,8 +480,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 2,
+          "max": 11
+        }
       },
       "group_mixed": {
         "size": {
@@ -406,7 +518,9 @@
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Shy",
+    "mating_system": "Monogamous",
     "life_expectancy": {
       "male": 24,
       "female": 24
@@ -433,6 +547,18 @@
         "height": 1,
         "climbproof": false
       },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
       "group_mixed": {
         "size": {
           "min": 1,
@@ -446,7 +572,7 @@
     "key": "bairds-tapir",
     "latin_name": "Tapirus bairdii",
     "category": "Mammal",
-    "description": "<p>Baird’s tapir (or Tapirus bairdii) is an endangered mammal native to the woodlands of Central America. It’s one of five species of tapir – four of which live in Central and/or South America. Males and females are similar sizes,  although females are slightly larger, and both have a dark brown to black coat, as well as a pale chin and chest when fully grown. Calves, meanwhile, are tan with white spots and stripes; their colouration provides them with camouflage in the dappled light of the woodland where they live.</p>\n",
+    "description": "<p>Baird’s tapir (or Tapirus bairdii) is an endangered mammal native to the woodlands of Central America. It’s one of five species of tapir – four of which live in Central and/or South America. Males and females are similar sizes,  although females are slightly larger, and both have a dark brown to black coat, as well as a pale chin and chest when fully grown. Calves, meanwhile, are tan with white spots and stripes; their colouration provides them with camouflage in the dappled light of the woodland where they live.</p>\n",
     "image_url": "https://cms-cdn.zaonce.net/2019-10/BairdsTapir.jpg"
   },
   {
@@ -456,7 +582,9 @@
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Confident",
+    "mating_system": "Polygynous (males have multiple female mates, females hace one male mate)",
     "life_expectancy": {
       "male": 15,
       "female": 15
@@ -465,7 +593,7 @@
       "guest_enter": false,
       "exhibit": false,
       "land": 705,
-      "land_additional": 66,
+      "land_additional": 111,
       "water_additional": 0,
       "climbable_additional": 0,
       "water": 0,
@@ -482,6 +610,18 @@
         "grade": 3,
         "height": 3,
         "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
       },
       "group_mixed": {
         "size": {
@@ -506,7 +646,9 @@
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "Territory bulls, female hierarchy within herd",
     "relationship_human": "Neutral",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 19,
       "female": 19
@@ -530,12 +672,24 @@
       },
       "fence": {
         "grade": 2,
-        "height": 1,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 7,
+          "max": 16
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 7,
+          "max": 32
+        }
       },
       "group_mixed": {
         "size": {
-          "min": 1,
+          "min": 7,
           "max": 32
         },
         "male": 1,
@@ -556,7 +710,9 @@
     "can_swim": true,
     "status": "Near Threatened",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Shy",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 18,
       "female": 18
@@ -580,8 +736,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 1,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 5
+        }
       },
       "group_mixed": {
         "size": {
@@ -603,10 +771,12 @@
     "name": "Bonobo",
     "continent": ["Africa"],
     "biome": ["Tropical"],
-    "can_swim": true,
+    "can_swim": false,
     "status": "Endangered",
     "exhibit": false,
+    "dominance": "Matriarchal",
     "relationship_human": "Confident",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 40,
       "female": 40
@@ -630,8 +800,20 @@
       },
       "fence": {
         "grade": 3,
-        "height": 0,
+        "height": 5,
         "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 2,
+          "max": 10
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 10
+        }
       },
       "group_mixed": {
         "size": {
@@ -653,10 +835,12 @@
     "name": "Bornean Orangutan",
     "continent": ["Asia"],
     "biome": ["Tropical"],
-    "can_swim": true,
+    "can_swim": false,
     "status": "Critically Endangered",
     "exhibit": false,
+    "dominance": "Male dominance",
     "relationship_human": "Confident",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 44,
       "female": 44
@@ -680,8 +864,20 @@
       },
       "fence": {
         "grade": 3,
-        "height": 0,
+        "height": 5,
         "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 6
+        }
       },
       "group_mixed": {
         "size": {
@@ -706,7 +902,9 @@
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Shy",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 14,
       "female": 14
@@ -730,15 +928,27 @@
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 2,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 3
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
       },
       "group_mixed": {
         "size": {
           "min": 1,
           "max": 3
         },
-        "male": 1,
+        "male": 2,
         "female": 1
       }
     },
@@ -756,7 +966,9 @@
     "can_swim": true,
     "status": "Critically Endangered",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Shy",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 13,
       "female": 13
@@ -780,8 +992,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 2,
         "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 3
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 3
+        }
       },
       "group_mixed": {
         "size": {
@@ -800,13 +1024,79 @@
     "key": "chinese-pangolin"
   },
   {
+    "name": "Colombian White-Faced Capuchin Monkey",
+    "continent": ["South America", "North America"],
+    "biome": ["Temperate", "Tropical"],
+    "can_swim": false,
+    "status": "Least Concern",
+    "exhibit": false,
+    "dominance": "Dominant male in charge of troop",
+    "relationship_human": "Confident",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 51,
+      "female": 51
+    },
+    "habitat_requirements": {
+      "guest_enter": true,
+      "exhibit": false,
+      "land": 210,
+      "land_additional": 8,
+      "water_additional": 0,
+      "climbable_additional": 4,
+      "water": 0,
+      "climbable": 20,
+      "humidity": {
+        "min": 0,
+        "max": 0
+      },
+      "temperature": {
+        "min": 12,
+        "max": 42
+      },
+      "fence": {
+        "grade": 1,
+        "height": 1.25,
+        "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 8,
+          "max": 40
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 8,
+          "max": 40
+        }
+      },
+      "group_mixed": {
+        "size": {
+          "min": 8,
+          "max": 40
+        },
+        "male": 13,
+        "female": 39
+      }
+    },
+    "latin_name": "Cebus capucinus",
+    "category": "Mammal",
+    "description": "The Colombian white-faced capuchin monkey (or Cebus capucinus) is an arboreal primate that lives in the forests of Colombia, Panama and Ecuador. There are 11 species of capuchin and even more subspecies, and the Colombian white-faced variant can be distinguished by its black body fur and distinctive white fur on the shoulders, upper chest and around the face. They also have a 'cap' of black fur on the top of their head and a pale pink face covered in sparse hair, as well as forward facing brown eyes. White-faced capuchins are between 33 and 45cm in length with a 35 to 55cm long tail, weighing between 1.5 and 4kg. Males are larger and heavier than females.",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIwLTA0L2NhcHVjaGluLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwfX19",
+    "slug": "colombian-white-faced-capuchin-monkey",
+    "key": "colombian-white-faced-capuchin-monkey"
+  },
+  {
     "name": "Common Ostrich",
     "continent": ["Africa"],
     "biome": ["Grassland"],
-    "can_swim": true,
+    "can_swim": false,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "Top hen leads nomadic groups when grazing, Alpha males in breeding groups",
     "relationship_human": "Neutral",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 46,
       "female": 46
@@ -830,8 +1120,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
       },
       "group_mixed": {
         "size": {
@@ -856,7 +1158,9 @@
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "Males fight for right to mate. Females have rank in groups based on age",
     "relationship_human": "Confident",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 18,
       "female": 18
@@ -880,8 +1184,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 1,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 4
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 7
+        }
       },
       "group_mixed": {
         "size": {
@@ -900,63 +1216,15 @@
     "key": "common-warthog"
   },
   {
-    "name": "Colombian White-Faced Capuchin Monkey",
-    "continent": ["South America", "North America"],
-    "biome": ["Temperate", "Tropical"],
-    "can_swim": true,
-    "status": "Least Concern",
-    "exhibit": false,
-    "relationship_human": "Confident",
-    "life_expectancy": {
-      "male": null,
-      "female": null
-    },
-    "habitat_requirements": {
-      "guest_enter": false,
-      "exhibit": false,
-      "land": 290,
-      "land_additional": 10,
-      "water_additional": 0,
-      "climbable_additional": 0,
-      "water": 0,
-      "climbable": 0,
-      "humidity": {
-        "min": 0,
-        "max": 0
-      },
-      "temperature": {
-        "min": 8,
-        "max": 40
-      },
-      "fence": {
-        "grade": 2,
-        "height": 1,
-        "climbproof": false
-      },
-      "group_mixed": {
-        "size": {
-          "min": 1,
-          "max": 7
-        },
-        "male": 1,
-        "female": 6
-      }
-    },
-    "latin_name": "Cebus capucinus",
-    "category": "Mammal",
-    "description": "The Colombian white-faced capuchin monkey (or Cebus capucinus) is an arboreal primate that lives in the forests of Colombia, Panama and Ecuador. There are 11 species of capuchin and even more subspecies, and the Colombian white-faced variant can be distinguished by its black body fur and distinctive white fur on the shoulders, upper chest and around the face. They also have a &apos;cap&apos; of black fur on the top of their head and a pale pink face covered in sparse hair, as well as forward facing brown eyes. White-faced capuchins are between 33 and 45cm in length with a 35 to 55cm long tail, weighing between 1.5 and 4kg. Males are larger and heavier than females.",
-    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIwLTA0L2NhcHVjaGluLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwfX19",
-    "slug": "colombian-white-faced-capuchin-monkey",
-    "key": "colombian-white-faced-capuchin-monkey"
-  },
-  {
     "name": "Dall Sheep",
     "continent": ["North America"],
     "biome": ["Taiga", "Tundra"],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "Dominant alpha male, Hierarchy by age and horn size",
     "relationship_human": "Neutral",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 18,
       "female": 18
@@ -965,7 +1233,7 @@
       "guest_enter": false,
       "exhibit": false,
       "land": 425,
-      "land_additional": 0,
+      "land_additional": 55,
       "water_additional": 0,
       "climbable_additional": 0,
       "water": 0,
@@ -980,8 +1248,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 1,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 3,
+          "max": 15
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 40
+        }
       },
       "group_mixed": {
         "size": {
@@ -1006,7 +1286,9 @@
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Shy",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 31,
       "female": 31
@@ -1017,21 +1299,33 @@
       "land": 950,
       "land_additional": 140,
       "water_additional": 0,
-      "climbable_additional": 0,
+      "climbable_additional": 16,
       "water": 0,
-      "climbable": 0,
+      "climbable": 40,
       "humidity": {
         "min": 0,
         "max": 0
       },
       "temperature": {
-        "min": -6,
-        "max": 29
+        "min": 0,
+        "max": 40
       },
       "fence": {
         "grade": 4,
-        "height": 0,
+        "height": 2,
         "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
       },
       "group_mixed": {
         "size": {
@@ -1053,10 +1347,12 @@
     "name": "Galapagos Giant Tortoise",
     "continent": ["South America"],
     "biome": ["Tropical"],
-    "can_swim": true,
+    "can_swim": false,
     "status": "Vulnerable",
     "exhibit": false,
+    "dominance": "Largest males",
     "relationship_human": "Neutral",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 100,
       "female": 100
@@ -1080,8 +1376,20 @@
       },
       "fence": {
         "grade": 1,
-        "height": 0,
+        "height": 0.5,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 4
+        }
       },
       "group_mixed": {
         "size": {
@@ -1106,7 +1414,9 @@
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "1 dominant male per group",
     "relationship_human": "Shy",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 20,
       "female": 20
@@ -1130,8 +1440,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 1,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 5,
+          "max": 10
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 5,
+          "max": 10
+        }
       },
       "group_mixed": {
         "size": {
@@ -1156,7 +1478,9 @@
     "can_swim": true,
     "status": "Critically Endangered",
     "exhibit": false,
+    "dominance": "Male dominance",
     "relationship_human": "Confident",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 50,
       "female": 50
@@ -1164,7 +1488,7 @@
     "habitat_requirements": {
       "guest_enter": false,
       "exhibit": false,
-      "land": 370,
+      "land": 210,
       "land_additional": 16,
       "water_additional": 30,
       "climbable_additional": 0,
@@ -1180,8 +1504,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 1,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 7
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 7
+        }
       },
       "group_mixed": {
         "size": {
@@ -1200,13 +1536,79 @@
     "key": "gharial"
   },
   {
+    "name": "Giant Anteater",
+    "continent": ["South America", "North America"],
+    "biome": ["Grassland", "Tropical"],
+    "can_swim": true,
+    "status": "Vulnerable",
+    "exhibit": false,
+    "dominance": "Unknown",
+    "relationship_human": "Neutral",
+    "mating_system": "Unknown",
+    "life_expectancy": {
+      "male": 18,
+      "female": 18
+    },
+    "habitat_requirements": {
+      "guest_enter": true,
+      "exhibit": false,
+      "land": 660,
+      "land_additional": 60,
+      "water_additional": 0,
+      "climbable_additional": 0,
+      "water": 0,
+      "climbable": 0,
+      "humidity": {
+        "min": 0,
+        "max": 0
+      },
+      "temperature": {
+        "min": 8,
+        "max": 42
+      },
+      "fence": {
+        "grade": 2,
+        "height": 1.25,
+        "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      "group_mixed": {
+        "size": {
+          "min": 1,
+          "max": 2
+        },
+        "male": 1,
+        "female": 1
+      }
+    },
+    "latin_name": "Myrmecophaga tridactyla",
+    "category": "Mammal",
+    "description": "<p>The giant anteater (or Myrmecophaga tridactyla) is a medium sized mammal that lives in the grasslands and forests of Central and South America. As the name suggests, the species feeds almost exclusively on ants and termites, detecting ant colonies by smell, before digging a hole to feed using its long, sticky tongue. The giant anteater has a very distinctive appearance, with a long, tubular snout, small eyes and ears, stocky limbs, a coarse mane and a thick bushy tail. They also have a characteristic pattern across their bodies; white front legs, a grey muzzle and a black strip across their chest, throat and shoulders, with bristly, black to brown tails and manes.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIwLTA0L2dpYW50YW50ZWF0ZXIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjB9fX0=",
+    "slug": "giant-anteater",
+    "key": "giant-anteater"
+  },
+  {
     "name": "Giant Panda",
     "continent": ["Asia"],
     "biome": ["Temperate"],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Neutral",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 20,
       "female": 20
@@ -1230,8 +1632,20 @@
       },
       "fence": {
         "grade": 4,
-        "height": 0,
+        "height": 2,
         "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 10
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 10
+        }
       },
       "group_mixed": {
         "size": {
@@ -1256,7 +1670,9 @@
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Neutral",
+    "mating_system": "Monogamous and Polygynous",
     "life_expectancy": {
       "male": 59,
       "female": 59
@@ -1280,8 +1696,20 @@
       },
       "fence": {
         "grade": 1,
-        "height": 0,
+        "height": 1,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 10,
+          "max": 500
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 10,
+          "max": 500
+        }
       },
       "group_mixed": {
         "size": {
@@ -1306,7 +1734,9 @@
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "Male bears will fight over foraging grounds and mates",
     "relationship_human": "Neutral",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 26,
       "female": 26
@@ -1330,8 +1760,20 @@
       },
       "fence": {
         "grade": 4,
-        "height": 0,
+        "height": 2,
         "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
       },
       "group_mixed": {
         "size": {
@@ -1356,7 +1798,9 @@
     "can_swim": true,
     "status": "Critically Endangered",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Neutral",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 29,
       "female": 29
@@ -1380,8 +1824,20 @@
       },
       "fence": {
         "grade": 4,
-        "height": 0,
+        "height": 2,
         "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
       },
       "group_mixed": {
         "size": {
@@ -1406,7 +1862,9 @@
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
+    "dominance": "Males are dominant",
     "relationship_human": "Confident",
+    "mating_system": "Polygynous; a dominant male will mate with his harem of females",
     "life_expectancy": {
       "male": 51,
       "female": 51
@@ -1430,12 +1888,24 @@
       },
       "fence": {
         "grade": 4,
-        "height": 0,
+        "height": 2,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 3,
+          "max": 3
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 30
+        }
       },
       "group_mixed": {
         "size": {
-          "min": 1,
+          "min": 3,
           "max": 30
         },
         "male": 1,
@@ -1456,7 +1926,9 @@
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
+    "dominance": "Matriarchal",
     "relationship_human": "Confident",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 61,
       "female": 61
@@ -1479,9 +1951,21 @@
         "max": 40
       },
       "fence": {
-        "grade": 5,
-        "height": 0,
+        "grade": 4,
+        "height": 2,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 3,
+          "max": 5
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 30
+        }
       },
       "group_mixed": {
         "size": {
@@ -1503,10 +1987,12 @@
     "name": "Indian Peafowl",
     "continent": ["Asia"],
     "biome": ["Temperate"],
-    "can_swim": true,
+    "can_swim": false,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "Male territorial",
     "relationship_human": "Confident",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 23,
       "female": 23
@@ -1526,12 +2012,24 @@
       },
       "temperature": {
         "min": 3,
-        "max": 30
+        "max": 40
       },
       "fence": {
         "grade": 1,
-        "height": 0,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 4,
+          "max": 4
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 4,
+          "max": 16
+        }
       },
       "group_mixed": {
         "size": {
@@ -1556,7 +2054,9 @@
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
+    "dominance": "Alpha male dominates territory",
     "relationship_human": "Confident",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 39,
       "female": 39
@@ -1580,8 +2080,20 @@
       },
       "fence": {
         "grade": 4,
-        "height": 0,
+        "height": 2,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
       },
       "group_mixed": {
         "size": {
@@ -1600,13 +2112,79 @@
     "key": "indian-rhinoceros"
   },
   {
+    "name": "Jaguar",
+    "continent": ["South America", "North America"],
+    "biome": ["Grassland", "Tropical", "Temperate"],
+    "can_swim": true,
+    "status": "Near Threatened",
+    "exhibit": false,
+    "dominance": "None",
+    "relationship_human": "Shy",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 23,
+      "female": 23
+    },
+    "habitat_requirements": {
+      "guest_enter": false,
+      "exhibit": false,
+      "land": 705,
+      "land_additional": 111,
+      "water_additional": 0,
+      "climbable_additional": 12,
+      "water": 0,
+      "climbable": 80,
+      "humidity": {
+        "min": 0,
+        "max": 0
+      },
+      "temperature": {
+        "min": 8,
+        "max": 42
+      },
+      "fence": {
+        "grade": 3,
+        "height": 3,
+        "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_mixed": {
+        "size": {
+          "min": 1,
+          "max": 2
+        },
+        "male": 1,
+        "female": 1
+      }
+    },
+    "latin_name": "Panthera onca",
+    "category": "Mammal",
+    "description": "<p>The jaguar (or Panthera onca) is a species of big cat that lives throughout South America, Central America and Mexico, with rare individual sightings in southern USA. Although they can live in multiple environment types, they prefer to be in dense forests, near swamps and rivers. They are stockily built compared to the other big cat species, weighing an average of between 56 and 96kg, and measuring 112 to 185cm long. They have yellow to orange fur with black rosette patterning, and a white underside.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIwLTA0L2phZ3Vhci5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MH19fQ==",
+    "slug": "jaguar",
+    "key": "jaguar"
+  },
+  {
     "name": "Japanese Macaque",
     "continent": ["Asia"],
     "biome": ["Taiga", "Temperate"],
-    "can_swim": true,
+    "can_swim": false,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "Matriarchal group with single alpha male",
     "relationship_human": "Confident",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 30,
       "female": 30
@@ -1630,8 +2208,20 @@
       },
       "fence": {
         "grade": 1,
-        "height": 1,
+        "height": 2,
         "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 8,
+          "max": 50
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 8,
+          "max": 50
+        }
       },
       "group_mixed": {
         "size": {
@@ -1656,13 +2246,15 @@
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
+    "dominance": "Feeding order based on size",
     "relationship_human": "Confident",
+    "mating_system": "Monogamous",
     "life_expectancy": {
       "male": 26,
       "female": 26
     },
     "habitat_requirements": {
-      "guest_enter": true,
+      "guest_enter": false,
       "exhibit": false,
       "land": 600,
       "land_additional": 80,
@@ -1680,8 +2272,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 1,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
       },
       "group_mixed": {
         "size": {
@@ -1700,13 +2304,79 @@
     "key": "komodo-dragon"
   },
   {
+    "name": "Llama",
+    "continent": ["South America"],
+    "biome": ["Taiga", "Grassland", "Temperate"],
+    "can_swim": true,
+    "status": "Domesticated",
+    "exhibit": false,
+    "dominance": "Social hierarchy is constantly in flux based on small fights",
+    "relationship_human": "Confident",
+    "mating_system": "Polygynous",
+    "life_expectancy": {
+      "male": 20,
+      "female": 20
+    },
+    "habitat_requirements": {
+      "guest_enter": false,
+      "exhibit": false,
+      "land": 550,
+      "land_additional": 50,
+      "water_additional": 0,
+      "climbable_additional": 0,
+      "water": 0,
+      "climbable": 0,
+      "humidity": {
+        "min": 0,
+        "max": 0
+      },
+      "temperature": {
+        "min": -5,
+        "max": 40
+      },
+      "fence": {
+        "grade": 4,
+        "height": 2,
+        "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 2,
+          "max": 30
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 2,
+          "max": 30
+        }
+      },
+      "group_mixed": {
+        "size": {
+          "min": 2,
+          "max": 30
+        },
+        "male": 30,
+        "female": 30
+      }
+    },
+    "latin_name": "Lama glama",
+    "category": "Mammal",
+    "description": "<p>The llama (or Lama glama) is a species of camelid native to the mountains and steppes of Western South America. Naturally found in Ecuador, Peru, Bolivia, Chile and Argentina, llamas have since been introduced all over the world as livestock because of the high-quality wool they produce. They are domesticated animals and have lived alongside humans as livestock and pack animals for 4000 years. They have a long neck, long legs and a stocky body covered in thick, shaggy wool, and they can be white, tan, piebald, black or grey in colour. Both sexes are between 1.6 and 1.8m tall and 92 to 160cm long, weighing between 130 and 200kg.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIwLTA0L2xsYW1hLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwfX19",
+    "slug": "llama",
+    "key": "llama"
+  },
+  {
     "name": "Mandrill",
     "continent": ["Africa"],
     "biome": ["Tropical"],
-    "can_swim": true,
+    "can_swim": false,
     "status": "Vulnerable",
     "exhibit": false,
+    "dominance": "Matriarchal + hierarchy within male group",
     "relationship_human": "Confident",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 32,
       "female": 32
@@ -1730,8 +2400,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 3,
         "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 5,
+          "max": 5
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 5,
+          "max": 10
+        }
       },
       "group_mixed": {
         "size": {
@@ -1756,7 +2438,9 @@
     "can_swim": true,
     "status": "Data Deficient",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Confident",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 15,
       "female": 15
@@ -1775,13 +2459,25 @@
         "max": 0
       },
       "temperature": {
-        "min": 14,
+        "min": 12,
         "max": 42
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 0.5,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 3
+        }
       },
       "group_mixed": {
         "size": {
@@ -1806,7 +2502,9 @@
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Shy",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 16,
       "female": 16
@@ -1830,8 +2528,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 1,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 5
+        }
       },
       "group_mixed": {
         "size": {
@@ -1856,7 +2566,9 @@
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Shy",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 26,
       "female": 26
@@ -1880,8 +2592,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
       },
       "group_mixed": {
         "size": {
@@ -1907,7 +2631,9 @@
     "can_swim": true,
     "status": "Near Threatened",
     "exhibit": false,
+    "dominance": "1 dominant male per group, females ranked by age",
     "relationship_human": "Confident",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 25,
       "female": 25
@@ -1931,8 +2657,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 1,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 3,
+          "max": 6
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 6
+        }
       },
       "group_mixed": {
         "size": {
@@ -1957,7 +2695,9 @@
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
+    "dominance": "Male bears will fight over mate",
     "relationship_human": "Neutral",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 35,
       "female": 35
@@ -1966,8 +2706,8 @@
       "guest_enter": false,
       "exhibit": false,
       "land": 6000,
-      "land_additional": 0,
-      "water_additional": 0,
+      "land_additional": 1000,
+      "water_additional": 250,
       "climbable_additional": 0,
       "water": 2000,
       "climbable": 0,
@@ -1981,8 +2721,20 @@
       },
       "fence": {
         "grade": 4,
-        "height": 1.25,
+        "height": 2,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
       },
       "group_mixed": {
         "size": {
@@ -2006,7 +2758,9 @@
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "Dominant solitary males, dominant herd females",
     "relationship_human": "Shy",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 11,
       "female": 11
@@ -2030,8 +2784,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 1,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 5
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 11
+        }
       },
       "group_mixed": {
         "size": {
@@ -2051,22 +2817,20 @@
   },
   {
     "name": "Pygmy Hippo",
-    "latin_name": "Hexaprotodon liberiensis",
-    "category": "Mammal",
-    "image_url": "https://cms-cdn.zaonce.net/2019-10/PygmyHippo.jpg",
-    "description": "<p>The pygmy hippopotamus (or Hexaprotodon liberiensis) is a species of medium-sized mammal that lives in the rainforests and swamps of Sierra Leone, Liberia, Guinea and the Ivory Coast. They have grey-brown skin, small ears and sturdy legs with four-toed feet, and can usually be found near rivers, where they spend most of their time wallowing and sleeping. On average they are between 75 to 100cm tall, 150 to 175cm long and weigh between 180 and 275kg.</p>\n",
     "continent": ["Africa"],
     "biome": ["Aquatic", "Tropical"],
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Confident",
+    "mating_system": "Monogamous (in captivity)",
     "life_expectancy": {
       "male": 30,
       "female": 30
     },
     "habitat_requirements": {
-      "guest_enter": true,
+      "guest_enter": false,
       "exhibit": false,
       "land": 270,
       "land_additional": 30,
@@ -2084,8 +2848,20 @@
       },
       "fence": {
         "grade": 3,
-        "height": 0,
+        "height": 1,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 2,
+          "max": 4
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 2,
+          "max": 4
+        }
       },
       "group_mixed": {
         "size": {
@@ -2096,6 +2872,10 @@
         "female": 3
       }
     },
+    "latin_name": "Hexaprotodon liberiensis",
+    "category": "Mammal",
+    "description": "<p>The pygmy hippopotamus (or Hexaprotodon liberiensis) is a species of medium-sized mammal that lives in the rainforests and swamps of Sierra Leone, Liberia, Guinea and the Ivory Coast. They have grey-brown skin, small ears and sturdy legs with four-toed feet, and can usually be found near rivers, where they spend most of their time wallowing and sleeping. On average they are between 75 to 100cm tall, 150 to 175cm long and weigh between 180 and 275kg.</p>\n",
+    "image_url": "https://cms-cdn.zaonce.net/2019-10/PygmyHippo.jpg",
     "slug": "pygmy-hippo",
     "key": "pygmy-hippo"
   },
@@ -2103,10 +2883,12 @@
     "name": "Red Panda",
     "continent": ["Asia"],
     "biome": ["Taiga", "Temperate"],
-    "can_swim": true,
+    "can_swim": false,
     "status": "Endangered",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Shy",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 10,
       "female": 10
@@ -2130,8 +2912,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 2,
         "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
       },
       "group_mixed": {
         "size": {
@@ -2153,10 +2947,12 @@
     "name": "Red Ruffed Lemur",
     "continent": ["Africa"],
     "biome": ["Tropical"],
-    "can_swim": true,
+    "can_swim": false,
     "status": "Critically Endangered",
     "exhibit": false,
+    "dominance": "Matriarchal",
     "relationship_human": "Neutral",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 26,
       "female": 26
@@ -2180,8 +2976,20 @@
       },
       "fence": {
         "grade": 1,
-        "height": 0,
+        "height": 1.25,
         "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 3,
+          "max": 30
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 30
+        }
       },
       "group_mixed": {
         "size": {
@@ -2206,7 +3014,9 @@
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
+    "dominance": "1 dominant male per breeding group",
     "relationship_human": "Neutral",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 17,
       "female": 17
@@ -2215,9 +3025,9 @@
       "guest_enter": false,
       "exhibit": false,
       "land": 370,
-      "land_additional": 0,
+      "land_additional": 60,
       "water_additional": 0,
-      "climbable_additional": 4,
+      "climbable_additional": 0,
       "water": 0,
       "climbable": 0,
       "humidity": {
@@ -2230,8 +3040,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 1.25,
+        "height": 1.5,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 3,
+          "max": 12
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 12
+        }
       },
       "group_mixed": {
         "size": {
@@ -2253,10 +3075,12 @@
     "name": "Reticulated Giraffe",
     "continent": ["Africa"],
     "biome": ["Grassland", "Tropical"],
-    "can_swim": true,
+    "can_swim": false,
     "status": "Endangered",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Confident",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 25,
       "female": 25
@@ -2280,8 +3104,20 @@
       },
       "fence": {
         "grade": 3,
-        "height": 0,
+        "height": 2,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 2,
+          "max": 12
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 2,
+          "max": 12
+        }
       },
       "group_mixed": {
         "size": {
@@ -2303,10 +3139,12 @@
     "name": "Ring Tailed Lemur",
     "continent": ["Africa"],
     "biome": ["Tropical"],
-    "can_swim": true,
+    "can_swim": false,
     "status": "Endangered",
     "exhibit": false,
+    "dominance": "Matriarchal",
     "relationship_human": "Neutral",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 21,
       "female": 21
@@ -2330,8 +3168,20 @@
       },
       "fence": {
         "grade": 1,
-        "height": 0,
+        "height": 1.25,
         "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 3,
+          "max": 30
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 30
+        }
       },
       "group_mixed": {
         "size": {
@@ -2356,7 +3206,9 @@
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "Dominant alpha male, female family hierarchy",
     "relationship_human": "Neutral",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 20,
       "female": 20
@@ -2380,8 +3232,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 1,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 6
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 11
+        }
       },
       "group_mixed": {
         "size": {
@@ -2406,7 +3270,9 @@
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "Males are territorial",
     "relationship_human": "Confident",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 72,
       "female": 72
@@ -2430,8 +3296,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 1,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
       },
       "group_mixed": {
         "size": {
@@ -2456,7 +3334,9 @@
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Confident",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 18,
       "female": 18
@@ -2483,6 +3363,18 @@
         "height": 3,
         "climbproof": true
       },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
       "group_mixed": {
         "size": {
           "min": 1,
@@ -2506,7 +3398,9 @@
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
+    "dominance": "None",
     "relationship_human": "Shy",
+    "mating_system": "Monogamous (Seasonal)",
     "life_expectancy": {
       "male": 20,
       "female": 20
@@ -2533,6 +3427,18 @@
         "height": 3,
         "climbproof": true
       },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
       "group_mixed": {
         "size": {
           "min": 1,
@@ -2556,7 +3462,9 @@
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "Matriarchal, nepotistic",
     "relationship_human": "Confident",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 20,
       "female": 20
@@ -2580,12 +3488,24 @@
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 2,
+          "max": 4
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 2,
+          "max": 4
+        }
       },
       "group_mixed": {
         "size": {
-          "min": 1,
+          "min": 2,
           "max": 4
         },
         "male": 2,
@@ -2606,7 +3526,9 @@
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "Territorial males with female harem",
     "relationship_human": "Shy",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 10,
       "female": 10
@@ -2626,12 +3548,24 @@
       },
       "temperature": {
         "min": 8,
-        "max": 40
+        "max": 42
       },
       "fence": {
         "grade": 2,
-        "height": 1,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 3,
+          "max": 35
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 35
+        }
       },
       "group_mixed": {
         "size": {
@@ -2656,7 +3590,9 @@
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "Territorial bulls",
     "relationship_human": "Shy",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 11,
       "female": 11
@@ -2680,8 +3616,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 1,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 3,
+          "max": 36
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 36
+        }
       },
       "group_mixed": {
         "size": {
@@ -2706,7 +3654,9 @@
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
+    "dominance": "Alpha male and alpha female",
     "relationship_human": "Confident",
+    "mating_system": "Monogamous",
     "life_expectancy": {
       "male": 12,
       "female": 12
@@ -2730,8 +3680,20 @@
       },
       "fence": {
         "grade": 2,
-        "height": 0,
+        "height": 1.25,
         "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 2,
+          "max": 12
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 2,
+          "max": 12
+        }
       },
       "group_mixed": {
         "size": {
@@ -2756,7 +3718,9 @@
     "can_swim": true,
     "status": "Critically Endangered",
     "exhibit": false,
+    "dominance": "Male",
     "relationship_human": "Confident",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 14,
       "female": 14
@@ -2783,6 +3747,18 @@
         "height": 3,
         "climbproof": true
       },
+      "group_male": {
+        "size": {
+          "min": 2,
+          "max": 4
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 2,
+          "max": 30
+        }
+      },
       "group_mixed": {
         "size": {
           "min": 2,
@@ -2792,7 +3768,7 @@
         "female": 29
       }
     },
-    "latin_name": "Panthera leo ",
+    "latin_name": "Panthera leo",
     "category": "Mammal",
     "description": "<p>Although there are an estimated 20,000 lions in the African wilderness today, the West African lion (or Panthera leo senegalensis) numbers far, far fewer. Only 250 still remain across the entire continent, making the subspecies one of the most threatened of its kind in the world. It currently falls under the ‘critically endangered’ conservation status.</p>\n",
     "image_url": "https://cms-cdn.zaonce.net/2019-10/WestAfricanLion.jpg",
@@ -2803,10 +3779,12 @@
     "name": "Western Chimpanzee",
     "continent": ["Africa"],
     "biome": ["Tropical"],
-    "can_swim": true,
+    "can_swim": false,
     "status": "Critically Endangered",
     "exhibit": false,
+    "dominance": "Patriarchal",
     "relationship_human": "Confident",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
       "male": 51,
       "female": 51
@@ -2830,8 +3808,20 @@
       },
       "fence": {
         "grade": 3,
-        "height": 1,
+        "height": 5,
         "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 5,
+          "max": 10
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 5,
+          "max": 15
+        }
       },
       "group_mixed": {
         "size": {
@@ -2844,7 +3834,7 @@
     },
     "latin_name": "Pan troglodytes verus",
     "category": "Mammal",
-    "description": "<p>The Western chimpanzee (or Pan troglodytes verus) is a subspecies of the common chimpanzee native to the forests of Guinea, Liberia, Senegal, Sierra Leone and the Ivory Coast. Along with bonobos, they are the closest living relatives of human beings, sharing more than 98% of our DNA. </p>\n",
+    "description": "<p>The Western chimpanzee (or Pan troglodytes verus) is a subspecies of the common chimpanzee native to the forests of Guinea, Liberia, Senegal, Sierra Leone and the Ivory Coast. Along with bonobos, they are the closest living relatives of human beings, sharing more than 98% of our DNA. </p>\n",
     "image_url": "https://cms-cdn.zaonce.net/2019-10/WesternChimpanzee.jpg",
     "slug": "western-chimpanzee",
     "key": "western-chimpanzee"
@@ -2853,10 +3843,12 @@
     "name": "Western Lowland Gorilla",
     "continent": ["Africa"],
     "biome": ["Tropical"],
-    "can_swim": true,
+    "can_swim": false,
     "status": "Critically Endangered",
     "exhibit": false,
+    "dominance": "1 alpha male per group",
     "relationship_human": "Neutral",
+    "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 41,
       "female": 41
@@ -2880,8 +3872,20 @@
       },
       "fence": {
         "grade": 3,
-        "height": 0,
+        "height": 5,
         "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 3,
+          "max": 3
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 6
+        }
       },
       "group_mixed": {
         "size": {
@@ -2889,7 +3893,7 @@
           "max": 6
         },
         "male": 1,
-        "female": 4
+        "female": 5
       }
     },
     "latin_name": "Gorilla gorilla gorilla",
