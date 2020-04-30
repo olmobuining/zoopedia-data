@@ -320,6 +320,42 @@
     "key": "aldabra-giant-tortoise"
   },
   {
+    "name": "Amazonian Giant Centipede",
+    "continent": ["South America"],
+    "biome": ["Tropical"],
+    "status": "Data Deficient",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 10,
+      "female": 10
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 50,
+        "max": 84
+      },
+      "temperature": {
+        "min": 23,
+        "max": 29
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      }
+    },
+    "latin_name": "Scolopendra gigantea",
+    "category": "Arthropod",
+    "description": "<p>The Amazonian giant centipede (or Scolopendra gigantea) is a large, fearsome and predatory arthropod that is native to the forests of South America and the Caribbean. It is capable of catching, envenoming and killing many animals, and has learned specific techniques for catching particular prey. The centipede can reach 12in in length and can occur in a variety of colours - typically red, yellow, brown or black - with yellow legs and dark stripes between body segments.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0FtYXpvbkdpYW50Q2VudGlwZWRlXzAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjB9fX0=",
+    "slug": "amazonian-giant-centipede",
+    "key": "amazonian-giant-centipede"
+  },
+  {
     "name": "American Bison",
     "continent": ["North America"],
     "biome": ["Grassland"],
@@ -704,6 +740,42 @@
     "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_blackwildebeest.jpg"
   },
   {
+    "name": "Boa Constrictor",
+    "continent": ["Central America", "South America"],
+    "biome": ["Grassland", "Tropical"],
+    "status": "Least Concern",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Polygynous",
+    "life_expectancy": {
+      "male": 30,
+      "female": 30
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 60,
+        "max": 80
+      },
+      "temperature": {
+        "min": 23,
+        "max": 31
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      }
+    },
+    "latin_name": "Boa constrictor",
+    "category": "Reptile",
+    "description": "<p>The boa constrictor is a large species of snake native to Central and South America. They are a ubiquitous species split into 9 subspecies, all of which are capable of living in most environments but mostly found in rainforests, coastal areas, and semi-deserts. Although there are many different colors and patterns among these snakes, the typical appearance is pale brown, dark brown and black scales in a rhomboid pattern down the length of the body. The species exhibits sexual dimorphism; the males and females look different. Males are an average length between 1.8 and 2.4m, with pelvic spurs around their cloaca that are used to facilitate mating. Females are larger, with an average length of between 2.1 and 3m, whilst they have pelvic spurs, they are smaller than the male's.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0JvYUNvbnN0cmljdG9yXzAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjB9fX0=",
+    "slug": "boa-constrictor",
+    "key": "boa-constrictor"
+  },
+  {
     "name": "Bongo",
     "continent": ["Africa"],
     "biome": ["Tropical"],
@@ -894,6 +966,78 @@
     "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_borneanorangutan.jpg",
     "slug": "bornean-orangutan",
     "key": "bornean-orangutan"
+  },
+  {
+    "name": "Brazilian Salmon Pink Tarantula",
+    "continent": ["South America"],
+    "biome": ["Tropical"],
+    "status": "Data Deficient",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Polyandrous",
+    "life_expectancy": {
+      "male": 12,
+      "female": 12
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 50,
+        "max": 84
+      },
+      "temperature": {
+        "min": 23,
+        "max": 29
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 6
+        }
+      }
+    },
+    "latin_name": "Lasiodora parahybana",
+    "category": "Arthropod",
+    "description": "<p>The Brazilian salmon pink tarantula (or Lasiodora parahybana) is a large species of spider exclusively endemic to the Atlantic Forest area of East Brazil. They are black in color, with pink or red hairs on their legs and abdomen. When looked at as a whole, the males are slightly larger than females with a leg span that can reach 11.2 in, but females are heavier with a larger abdomen. Males also often have brighter coloration than females.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0JyYXppbGxpYW5TYWxtb25QaW5rVGFyYW50dWxhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwfX19",
+    "slug": "brazilian-salmon-pink-tarantula",
+    "key": "brazilian-salmon-pink-tarantula"
+  },
+  {
+    "name": "Brazilian Wandering Spider",
+    "continent": ["South America"],
+    "biome": ["Tropical"],
+    "status": "Data Deficient",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Polyandrous",
+    "life_expectancy": {
+      "male": 4,
+      "female": 4
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 50,
+        "max": 84
+      },
+      "temperature": {
+        "min": 23,
+        "max": 29
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 6
+        }
+      }
+    },
+    "latin_name": "Phoneutria nigriventer",
+    "category": "Arthropod",
+    "description": "<p>The Brazilian wandering spider (or Phoneutria nigriventer) is a species of arachnid native to South America - predominantly in the rainforests, although it does often live in urban areas alongside humans. The spiders are large, venomous and pale brown in colour, with a hairy body and black striations on their legs. Males are slightly smaller than females with a much smaller abdomen, and also have swollen bulbs on the end of their palps, which are the segmented appendages near the mouth are often used to distinguish the sexes. They have an average leg span of between 130 and 150mm, and an average body size of 17x48mm. A classic behaviour of the Brazilian wandering spider is its defensive posture, whereby it raises its front two sets of legs and leans from side to side.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0JyYXppbGlhbldhbmRlcmluZ1NwaWRlcl8wLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwfX19",
+    "slug": "brazilian-wandering-spider",
+    "key": "brazilian-wandering-spider"
   },
   {
     "name": "Cheetah",
@@ -1088,6 +1232,42 @@
     "key": "colombian-white-faced-capuchin-monkey"
   },
   {
+    "name": "Common Death Adder",
+    "continent": ["Oceania"],
+    "biome": ["Grassland", "Temperate"],
+    "status": "Least Concern",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Polygynous",
+    "life_expectancy": {
+      "male": 10,
+      "female": 10
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 60,
+        "max": 80
+      },
+      "temperature": {
+        "min": 23,
+        "max": 31
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 5
+        }
+      }
+    },
+    "latin_name": "Acanthophis antarcticus",
+    "category": "Reptile",
+    "description": "<p>The common death adder (or Acanthophis antarcticus) is a venomous snake that lives in the grasslands, forests, and bushlands of Eastern and Southern Australia. It has a flat, triangular head, a squat body, and a rapidly tapering tail, as well as a banded pattern of light brown, dark brown, and grey in order for it be well disguised in leaf litter and other debris. On average, the common death adder is between 28in and 40in long.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0NvbW1vbkRlYXRoQWRkZXJfMC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MH19fQ==",
+    "slug": "common-death-adder",
+    "key": "common-death-adder"
+  },
+  {
     "name": "Common Ostrich",
     "continent": ["Africa"],
     "biome": ["Grassland"],
@@ -1278,6 +1458,42 @@
     "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEyL19kYWxsc2hlZXAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjB9fX0=",
     "slug": "dall-sheep",
     "key": "dall-sheep"
+  },
+  {
+    "name": "Eastern Brown Snake",
+    "continent": ["Oceania"],
+    "biome": ["Desert", "Grassland", "Temperate"],
+    "status": "Least Concern",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 11,
+      "female": 11
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 60,
+        "max": 85
+      },
+      "temperature": {
+        "min": 23,
+        "max": 29
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 5
+        }
+      }
+    },
+    "latin_name": "Pseudonaja textilis",
+    "category": "Reptile",
+    "description": "<p>The Eastern Brown Snake (or Pseudonaja textilis) is a venomous species of reptile that lives in Australia and New Guinea. It prefers to live in dry areas so can be found in the grassland, scrubland and sparse forests. The snakes are pale to dark brown in colour, often with a paler underside, and they may have slightly darker brown mottling on their scales as camouflage. Eastern brown snakes usually measure between 1.5 and 2m in length, and the species is known for its defensive displays, whereby it will lift much of its head and body off the ground and coil it into an S-shape with its mouth open. These displays are often mistaken for aggression.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0Vhc3Rlcm5Ccm93blNuYWtlXzAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjB9fX0=",
+    "slug": "eastern-brown-snake",
+    "key": "eastern-brown-snake"
   },
   {
     "name": "Formosan Black Bear",
@@ -1600,6 +1816,114 @@
     "key": "giant-anteater"
   },
   {
+    "name": "Giant Burrowing Cockroach",
+    "continent": ["Oceania"],
+    "biome": ["Temperate"],
+    "status": "Data Deficient",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Monogamous",
+    "life_expectancy": {
+      "male": 9,
+      "female": 9
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 60,
+        "max": 80
+      },
+      "temperature": {
+        "min": 25,
+        "max": 30
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 6
+        }
+      }
+    },
+    "latin_name": "Macropanesthia rhinoceros",
+    "category": "Arthropod",
+    "description": "<p>The Giant burrowing cockroach (or Macropanesthia rhinoceros) is a large insect native to the scrublands and dry forests of Northern Australia. They measure approximately 8cm long, weigh 30g, and are dark reddish-brown in color. They are so named for their habit of digging burrows in the sandy earth, often delving up to 1m into the ground. They are popular pet because of the ease of care and their positive response to being handled.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0dpYW50QnVycm93aW5nQ29ja3JvYWNoLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwfX19",
+    "slug": "giant-burrowing-cockroach",
+    "key": "giant-burrowing-cockroach"
+  },
+  {
+    "name": "Giant Desert Hairy Scorpion",
+    "continent": ["North America"],
+    "biome": ["Desert"],
+    "status": "Data Deficient",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Polygynous",
+    "life_expectancy": {
+      "male": 17,
+      "female": 17
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 20,
+        "max": 35
+      },
+      "temperature": {
+        "min": 25,
+        "max": 37
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 6
+        }
+      }
+    },
+    "latin_name": "Hadrurus arizonensis",
+    "category": "Arthropod",
+    "description": "<p>A large species of arachnid native to the deserts of the Southern USA and Mexico, the giant desert hairy scorpion (or Hadrurus arizonensis) is a predator specialising in ambush. Typically yellow, tan or pale green and with darker areas of colour on its back, the scorpion spends its time burried beneath the sand or under rocks, attacking insects and small vertebrates with its stinger. This immobilses its prey before the scorpion can then grab it with its jaws. Once fully grown, the scorpion can be between 10 and 18 cm in length and, despite the pain caused, the sting is not usually dangerous to humans.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0dpYW50RGVzZXJ0SGFpcnlTY29ycGlvbl8wLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwfX19",
+    "slug": "giant-desert-hairy-scorpion",
+    "key": "giant-desert-hairy-scorpion"
+  },
+  {
+    "name": "Giant Forest Scorpion",
+    "continent": ["Asia"],
+    "biome": ["Tropical"],
+    "status": "Data Deficient",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Polygynous",
+    "life_expectancy": {
+      "male": 7,
+      "female": 7
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 65,
+        "max": 85
+      },
+      "temperature": {
+        "min": 21,
+        "max": 30
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 6
+        }
+      }
+    },
+    "latin_name": "Heterometrus swammerdami titanicus",
+    "category": "Arthropod",
+    "description": "<p>The giant forest scorpion (or Heterometrus swammerdami titanicus) is a large species of arachnid that lives in the tropical rainforests of India and Sri Lanka. It's a stout, black coloured animal with thick chitinous body plates and very large pincers. It may also have a blue or green sheen to its cuticle. The giant forest scorpion's pincers are strong and capable of catching and crushing prey, whereas its venom is relatively weak; most likely because it relies more on the strength of its pincers than the potency of its sting.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0dpYW50Rm9yZXN0U2NvcnBpb25fMC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MH19fQ==",
+    "slug": "giant-forest-scorpion",
+    "key": "giant-forest-scorpion"
+  },
+  {
     "name": "Giant Panda",
     "continent": ["Asia"],
     "biome": ["Temperate"],
@@ -1664,6 +1988,222 @@
     "key": "giant-panda"
   },
   {
+    "name": "Giant Tiger Land Snail",
+    "continent": ["Africa"],
+    "biome": ["Tropical", "Grassland"],
+    "status": "Data Deficient",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Promiscuous, self fertilization",
+    "life_expectancy": {
+      "male": 7,
+      "female": 7
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 40,
+        "max": 60
+      },
+      "temperature": {
+        "min": 23,
+        "max": 36
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 6
+        }
+      }
+    },
+    "latin_name": "Achatina achatina",
+    "category": "Arthropod",
+    "description": "<p>The giant tiger land snail (or Achatina achatina) is a large species of gastropod that lives in the woodland areas of West Africa; specifically Sierra Leone, Liberia, Ivory Coast, Ghana and Nigeria, among others. They have a grey body and a conical shell that's yellow, orange or tan with black stripes - the distinctive pattern being the inspiration for their name. The species is hermaphroditic, possessing both male and female reproductive parts, so there are no distinct 'males' and 'females'. However, small or sub-adult individuals have often not yet developed the reproductive parts and so may be considered 'males'.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0dpYW50VGlnZXJMYW5kU25haWxfMC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MH19fQ==",
+    "slug": "giant-tiger-land-snail",
+    "key": "giant-tiger-land-snail"
+  },
+  {
+    "name": "Gila Monster",
+    "continent": ["North America"],
+    "biome": ["Desert"],
+    "status": "Near Threatened",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Polygynous",
+    "life_expectancy": {
+      "male": 25,
+      "female": 25
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 15,
+        "max": 25
+      },
+      "temperature": {
+        "min": 35,
+        "max": 42
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 4
+        }
+      }
+    },
+    "latin_name": "Heloderma suspectum",
+    "category": "Reptile",
+    "description": "<p>The Gila monster (or Heloderma suspectum) is a large species of venomous lizard native to the arid regions of the Southern United States and Northern Mexico. It has orange and black scales arranged in a banded and reticulated pattern, measures 20in to24in long, and weighs between 12.25oz and 24.5oz. The Gila monster has a very keen sense of smell that it uses for hunting, and can often be seen scenting the air by flicking its tongue in and out of its mouth. The species is near threatened, often killed by humans out of fear, despite the fact it is too slow moving for it to be a serious threat to people.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0dpbGFNb25zdGVyXzAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjB9fX0=",
+    "slug": "gila-monster",
+    "key": "gila-monster"
+  },
+  {
+    "name": "Golden Poison Frog",
+    "continent": ["South America"],
+    "biome": ["Tropical"],
+    "status": "Endangered",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 12,
+      "female": 12
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 80,
+        "max": 90
+      },
+      "temperature": {
+        "min": 26,
+        "max": 31
+      },
+      "group_size": {
+        "size": {
+          "min": 4,
+          "max": 11
+        }
+      }
+    },
+    "latin_name": "Phyllobates terribilis",
+    "category": "Amphibian",
+    "description": "<p>The golden poison frog (or Phyllobates terribilis) is a species of poison dart frog endemic to the rainforests of the Pacific Coast of Colombia. Although being called 'golden' frogs, they are actually found in mint green, yellow and orange color morphs. All variants measure an average of 2in to 2.2in and have extremely poisonous skin that's used as a defense mechanism against predators, while their bright coloration acts as a warning signal to potentional threats. They live on the forest floor and, unlike other frog species, do not require to live in or near water, though they do need water source in which to deposit their eggs.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0dvbGRlblBvaXNvbkZyb2dfMC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MH19fQ==",
+    "slug": "golden-poison-frog",
+    "key": "golden-poison-frog"
+  },
+  {
+    "name": "Goliath Beetle",
+    "continent": ["Africa"],
+    "biome": ["Tropical", "Grassland"],
+    "status": "Data Deficient",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Polygynous",
+    "life_expectancy": {
+      "male": 2,
+      "female": 2
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 40,
+        "max": 60
+      },
+      "temperature": {
+        "min": 23,
+        "max": 36
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 8
+        }
+      }
+    },
+    "latin_name": "Goliathus goliatus",
+    "category": "Arthropod",
+    "description": "<p>The Goliath beetle (or Goliathus goliatus) is a large species of insect that lives in the savannah and rainforests of Central Africa. The males and females are different in appearance and size; the males being larger - between 2.4in and 4in - with a dark brown abdomen, a brown thorax with white stripes, black legs, as well as a white head with a Y-shaped horn. The females have shorter, thinner stripes on the thorax, are smaller in size - between 2in and 3.2in - and do not have a horn. Little is known about the life cycle of this species in the wild, but it is threatened by habitat loss due to destruction of the rainforests that it lives.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0dvbGlhdGhCZWV0bGVfMC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MH19fQ==",
+    "slug": "goliath-beetle",
+    "key": "goliath-beetle"
+  },
+  {
+    "name": "Goliath Birdeater",
+    "continent": ["South America"],
+    "biome": ["Tropical"],
+    "status": "Data Deficient",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Polygynous",
+    "life_expectancy": {
+      "male": 15,
+      "female": 15
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 50,
+        "max": 84
+      },
+      "temperature": {
+        "min": 23,
+        "max": 29
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 3
+        }
+      }
+    },
+    "latin_name": "Theraphosa blondi",
+    "category": "Arthropod",
+    "description": "<p>The Goliath birdeater (or Theraphosa blondi) is an extremely large species of tarantula native to the tropical rainforests, swamps and marshes of Suriname, Guyana, French Guiana, Brazil and Venezuela. It is tan brown in color, covered in red-brown hair, has a large abdomen with a large, round thorax, thick segmented legs, and elongated pedipalps (mouth parts). The female is larger than the male, and both sexes have pronounced appendages on the end of their abdomen known as 'spinnerets' that aid in web deposition. The web of the Goliath birdeater is used for making egg sacs and for sperm transfer, but they do not spin webs for hunting.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0dvbGlhdGhCaXJkZWF0ZXJfMC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MH19fQ==",
+    "slug": "goliath-birdeater",
+    "key": "goliath-birdeater"
+  },
+  {
+    "name": "Goliath Frog",
+    "continent": ["Africa"],
+    "biome": ["Aquatic", "Tropical"],
+    "status": "Endangered",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Polygynous",
+    "life_expectancy": {
+      "male": 18,
+      "female": 18
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 74,
+        "max": 86
+      },
+      "temperature": {
+        "min": 26,
+        "max": 32
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      }
+    },
+    "latin_name": "Conraua goliath",
+    "category": "Amphibian",
+    "description": "<p>The Goliath frog (or Conraua goliath) is an extremely large species that lives in the African rainforests of Cameroon and Equatorial Guinea, specifically in the fast-flowing rivers and streams. It can be green to dark brown in colour, with a paler underbelly, large yellow eyes, and may also have small, ridged bumps on its skin. Males are larger than females, weighing between 0.6 and 3kg and measuring between 17 and 30cm long. The species is endangered due to being over-hunted for food, as trophies and by the pet trade.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0dvbGlhdGhGcm9nXzAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjB9fX0=",
+    "slug": "goliath-frog",
+    "key": "goliath-frog"
+  },
+  {
     "name": "Greater Flamingo",
     "continent": ["Africa", "Asia", "Europe"],
     "biome": ["Aquatic", "Grassland", "Temperate", "Tropical"],
@@ -1726,6 +2266,42 @@
     "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_greaterflamingo.jpg",
     "slug": "greater-flamingo",
     "key": "greater-flamingo"
+  },
+  {
+    "name": "Green Iguana",
+    "continent": ["South America", "Central America"],
+    "biome": ["Tropical", "Grassland"],
+    "status": "Least Concern",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 14,
+      "female": 14
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 50,
+        "max": 60
+      },
+      "temperature": {
+        "min": 26,
+        "max": 31
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      }
+    },
+    "latin_name": "Iguana iguana",
+    "category": "Reptile",
+    "description": "<p>The green iguana (or Iguana iguana) is a large species of lizard that lives throughout Central America, Northern South America and the Caribbean. It has a long tail with a serrated crest that goes from its head to the base of its spine, as well as muscular legs with long toes and claws. They may also have striations on their tail and body.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0dyZWVuSWd1YW5hXzAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjB9fX0=",
+    "slug": "green-iguana",
+    "key": "green-iguana"
   },
   {
     "name": "Grizzly Bear",
@@ -2304,6 +2880,78 @@
     "key": "komodo-dragon"
   },
   {
+    "name": "Lehmann's Poison Frog",
+    "continent": ["South America"],
+    "biome": ["Tropical"],
+    "status": "Critically Endangered",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Polygynous",
+    "life_expectancy": {
+      "male": 10,
+      "female": 10
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 80,
+        "max": 90
+      },
+      "temperature": {
+        "min": 26,
+        "max": 31
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 6
+        }
+      }
+    },
+    "latin_name": "Oophaga lehmanni",
+    "category": "Amphibian",
+    "description": "<p>Lehmann's poison frog (or Oophaga lehmanni) is a species of amphibian endemic to the Colombian rainforests of the Anchicaya valley, and cannot be found anywhere else in the world. Preferring to live on the forest floor, the frog can occasionally be found residing on low branches and bushes, distinguished by the thick dark brown to black banding on its back, head and legs. In between these are bright lines of coloration that can occur in red, yellow, and orange color morphs. The frogs are an average of 1.24in-1.44in in length when fully grown.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0xlaG1hbm5zUG9pc29uRnJvZ18wLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwfX19",
+    "slug": "lehmanns-poison-frog",
+    "key": "lehmanns-poison-frog"
+  },
+  {
+    "name": "Lesser Antillean Iguana",
+    "continent": ["South America", "Central America"],
+    "biome": ["Tropical"],
+    "status": "Critically Endangered",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 14,
+      "female": 14
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 50,
+        "max": 60
+      },
+      "temperature": {
+        "min": 26,
+        "max": 31
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      }
+    },
+    "latin_name": "Iguana delicatissima",
+    "category": "Reptile",
+    "description": "<p>The Lesser Antilean Iguana (or Iguana delicatissima) is a large species of lizard endemic to the Lesser Antilles Islands of the Carribbean - specifically Anguilla, Guadeloupe, Martinique and Dominica. It is a critically endangered scpecies, threatened by habitat loss, hunting by feral animals, and hybridization with the invasive green iguana. The Lesser Antilean Iguana is grey with a green belly and has a short, blunted face with white scales around the jaw; males have pink jowls and blue scales around the eyes, whereas females lack this colouration and are about two thirds of the size of their male counterparts.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX0FudGlsbGVhbklndWFuYV8wLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwfX19",
+    "slug": "lesser-antillean-iguana",
+    "key": "lesser-antillean-iguana"
+  },
+  {
     "name": "Llama",
     "continent": ["South America"],
     "biome": ["Taiga", "Grassland", "Temperate"],
@@ -2430,6 +3078,42 @@
     "image_url": "https://cms-cdn.zaonce.net/2019-10/Mandrill.jpg",
     "slug": "mandrill",
     "key": "mandrill"
+  },
+  {
+    "name": "Mexican Red Knee Tarantula",
+    "continent": ["Central America"],
+    "biome": ["Tropical", "Desert", "Temperate"],
+    "status": "Vulnerable",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 20,
+      "female": 20
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 50,
+        "max": 84
+      },
+      "temperature": {
+        "min": 23,
+        "max": 29
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 5
+        }
+      }
+    },
+    "latin_name": "Brachypelma hamorii",
+    "category": "Arthropod",
+    "description": "<p>The Mexican redknee tarantula (or Brachypelma hamorii) is a species of spider that lives in the scrublands, deserts and forests of Mexico. It has a black body and legs, orange-red coloration on the joints and, like all tarantula species, a body that's covered in sensitive hairs. They measure around 10cm long with a leg span of 15cm and are nocturnal, living in burrows during the day and spending their nights hunting for prey. They feed on insects, small amphibians and small mammals.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX01leGljYW5SZWRrbmVlVGFyYW50dWxhXzAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjB9fX0=",
+    "slug": "mexican-red-knee-tarantula",
+    "key": "mexican-red-knee-tarantula"
   },
   {
     "name": "Nile Monitor",
@@ -2816,6 +3500,42 @@
     "key": "pronghorn-antelope"
   },
   {
+    "name": "Puff Adder",
+    "continent": ["Africa"],
+    "biome": ["Grassland"],
+    "status": "Data Deficient",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 14,
+      "female": 14
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 60,
+        "max": 80
+      },
+      "temperature": {
+        "min": 23,
+        "max": 31
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 5
+        }
+      }
+    },
+    "latin_name": "Bitis arietans",
+    "category": "Reptile",
+    "description": "<p>The Puff adder (or Bitis arietans) is a species of venomous snake that is widespread throughout sub-Saharan Africa and the Southern Middle East. It distinguishable by its squat body, broad head and and dull scales; these are beige, brown and black, and formed in a reticulated pattern to provide it with excellent camouflage on the savannahs and grasslands where it prefers to live. It's a slow moving snake, but can reach great speeds when disturbed. Their average length is 1m - although some specimenscan reach almost 2m - and males tend to be larger than females , with a wider girth and longer tail.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX1B1ZmZBZGRlcl8wLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwfX19",
+    "slug": "puff-adder",
+    "key": "puff-adder"
+  },
+  {
     "name": "Pygmy Hippo",
     "continent": ["Africa"],
     "biome": ["Aquatic", "Tropical"],
@@ -3006,6 +3726,42 @@
     "image_url": "https://cms-cdn.zaonce.net/2019-10/speciesimagezoopedia_redruffedlemur.jpg",
     "slug": "red-ruffed-lemur",
     "key": "red-ruffed-lemur"
+  },
+  {
+    "name": "Red-Eyed Tree Frog",
+    "continent": ["South America", "North America"],
+    "biome": ["Tropical"],
+    "status": "Least Concern",
+    "exhibit": true,
+    "dominance": "None, but males may be aggressive during the mating season",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 5,
+      "female": 5
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 80,
+        "max": 90
+      },
+      "temperature": {
+        "min": 26,
+        "max": 31
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 8
+        }
+      }
+    },
+    "latin_name": "Agalychnis callidryas",
+    "category": "Amphibian",
+    "description": "<p>The red-eyed tree frog is a species of arboreal amphibian that lives in the tropical rainforest regions of Central America. Female frogs are larger than males, but both have the same markings. As the name suggests, the red-eyed tree frog has vivid red eyes with black pupils. The upper body and upper legs of the frog are pale green, and as such when the frog curls up and closes its eyes it is well camouflaged against the leaves on which it lives. The red-eyed tree frog has bright blue sides with yellow reticulation and blue thighs. It has orange feet and a pale underbelly.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIwLTA0L3JlZGV5ZWR0cmVlZnJvZy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MH19fQ==",
+    "slug": "red-eyed-tree-frog",
+    "key": "red-eyed-tree-frog"
   },
   {
     "name": "Reindeer",
@@ -3712,6 +4468,42 @@
     "key": "timber-wolf"
   },
   {
+    "name": "Titan Beetle",
+    "continent": ["South America"],
+    "biome": ["Tropical"],
+    "status": "Data Deficient",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Unknown",
+    "life_expectancy": {
+      "male": 1,
+      "female": 1
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 40,
+        "max": 60
+      },
+      "temperature": {
+        "min": 23,
+        "max": 26
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 7
+        }
+      }
+    },
+    "latin_name": "Titanus giganteus",
+    "category": "Arthropod",
+    "description": "<p>The titan beetle (or Titanus giganteus) is an extremely large species that lives in the tropical rainforests of South America. It has a large reddish-brown and black abdomen, black colouration on its legs, antennae and thorax, and pale wings with brown vein structures. The beetle's robust mandibles are strong enough to snap through twigs and, while both sexes have wings, only the males are capable of flight. Like many species, it is threatened by the ongoing destruction of the rainforest habitat that it calls home.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX1RpdGFuQmVldGxlXzAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjB9fX0=",
+    "slug": "titan-beetle",
+    "key": "titan-beetle"
+  },
+  {
     "name": "West African Lion",
     "continent": ["Africa"],
     "biome": ["Grassland"],
@@ -3840,6 +4632,42 @@
     "key": "western-chimpanzee"
   },
   {
+    "name": "Western Diamondback Rattlesnake",
+    "continent": ["North America", "Central America"],
+    "biome": ["Desert", "Temperate", "Grassland"],
+    "status": "Least Concern",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 17,
+      "female": 17
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 40,
+        "max": 60
+      },
+      "temperature": {
+        "min": 24,
+        "max": 30
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      }
+    },
+    "latin_name": "Crotalus atrox",
+    "category": "Reptile",
+    "description": "<p>The Western diamondback rattlesnake (or Crotalus atrox) is a species of venomous snake native to the deserts, grassland and scrubland of the USA and Mexico; so named for the pattern of grey and brown scales on its back. It reaches an average length of 4ft - although a specimen of 7ft in length has been reported - and males are larger than females. It is a dangerous species that will strike if it perceives threat.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX1dlc3Rlcm5EaWFtb25kQmFja1JhdHRsZXNuYWtlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwfX19",
+    "slug": "western-diamondback-rattlesnake",
+    "key": "western-diamondback-rattlesnake"
+  },
+  {
     "name": "Western Lowland Gorilla",
     "continent": ["Africa"],
     "biome": ["Tropical"],
@@ -3902,5 +4730,41 @@
     "image_url": "https://cms-cdn.zaonce.net/2019-10/WesternLowlandGorilla.jpg",
     "slug": "western-lowland-gorilla",
     "key": "western-lowland-gorilla"
+  },
+  {
+    "name": "Yellow Anaconda",
+    "continent": ["South America"],
+    "biome": ["Tropical", "Aquatic"],
+    "status": "Data Deficient",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 20,
+      "female": 20
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 80,
+        "max": 90
+      },
+      "temperature": {
+        "min": 25,
+        "max": 30
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      }
+    },
+    "latin_name": "Eunectes notaeus",
+    "category": "Reptile",
+    "description": "<p>The yellow anaconda (or Eunectes notaeus) is a large, yellow-scaled species of constrictor snake with brown-black saddles across its back. It can primarily be found in the tributaries, swamps and marshes of the Paraguay river basin, but can also be located in Bolivia, Argentina and Brazil. As generalist predators, the yellow anaconda will feed on most small to medium sized animals that they are able to catch. The species is known for reaching large sizes - adults can reach an average length of 3.3 to 4.4m, as well as an average weight of 25 to 35kg. The largest specimen ever recorded was 4.6m long and weighed 55kg.</p>\n",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDE5LTEwL1NwZWNpZXNJbWFnZVpvb3BlZGlhX1llbGxvd0FuYWNvbmRhXzAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjB9fX0=",
+    "slug": "yellow-anaconda",
+    "key": "yellow-anaconda"
   }
 ]
