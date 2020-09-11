@@ -421,6 +421,7 @@
   },
   {
     "name": "Arctic Wolf",
+    "dlc": "Arctic",
     "continent": ["North America"],
     "biome": ["Taiga", "Tundra"],
     "can_swim": true,
@@ -1169,6 +1170,7 @@
   },
   {
     "name": "Colombian White-Faced Capuchin Monkey",
+    "dlc": "South America",
     "continent": ["South America", "North America"],
     "biome": ["Temperate", "Tropical"],
     "can_swim": false,
@@ -1397,6 +1399,7 @@
   },
   {
     "name": "Dall Sheep",
+    "dlc": "Arctic",
     "continent": ["North America"],
     "biome": ["Taiga", "Tundra"],
     "can_swim": true,
@@ -1883,6 +1886,7 @@
   },
   {
     "name": "Giant Anteater",
+    "dlc": "South America",
     "continent": ["South America", "North America"],
     "biome": ["Grassland", "Tropical"],
     "can_swim": true,
@@ -2819,6 +2823,7 @@
   },
   {
     "name": "Jaguar",
+    "dlc": "South America",
     "continent": ["South America", "North America"],
     "biome": ["Grassland", "Tropical", "Temperate"],
     "can_swim": true,
@@ -3072,7 +3077,8 @@
     "description": "<p>The Komodo dragon (or Varanus komodoensis) is a large species of reptile that lives on the Indonesian isles of Komodo, Rinca, Flores and Gili Motang. They are a dull green-brown in colour with wide set limbs with a wide gape, have a long, muscular tail, and a yellow forked tongue. The males reach an average length of 2.59m and usually weigh between 79 and 91kg, whereas the females are smaller, averaging 2.29m long and between 68 and 73kg.</p>\n",
     "image_url": "https://cms-cdn.zaonce.net/2019-10/komododragon.jpg",
     "slug": "komodo-dragon",
-    "key": "komodo-dragon"
+    "key": "komodo-dragon",
+    "dlc": "Deluxe upgrade"
   },
   {
     "name": "Lehmann's Poison Frog",
@@ -3148,6 +3154,7 @@
   },
   {
     "name": "Llama",
+    "dlc": "South America",
     "continent": ["South America"],
     "biome": ["Taiga", "Grassland", "Temperate"],
     "can_swim": true,
@@ -3568,6 +3575,7 @@
   },
   {
     "name": "Polar Bear",
+    "dlc": "Arctic",
     "latin_name": "Ursus maritimus",
     "continent": ["Europe", "North America"],
     "biome": ["Aquatic", "Tundra"],
@@ -3732,6 +3740,7 @@
   },
   {
     "name": "Pygmy Hippo",
+    "dlc": "Deluxe upgrade",
     "continent": ["Africa"],
     "biome": ["Aquatic", "Tropical"],
     "can_swim": true,
@@ -3989,6 +3998,7 @@
   },
   {
     "name": "Red-Eyed Tree Frog",
+    "dlc": "South America",
     "continent": ["South America", "North America"],
     "biome": ["Tropical"],
     "status": "Least Concern",
@@ -4025,6 +4035,7 @@
   },
   {
     "name": "Reindeer",
+    "dlc": "Arctic",
     "continent": ["Europe", "North America"],
     "biome": ["Taiga", "Tundra"],
     "can_swim": true,
@@ -4666,6 +4677,7 @@
   },
   {
     "name": "Thomson's Gazelle",
+    "dlc": "Deluxe upgrade",
     "continent": ["Africa"],
     "biome": ["Grassland"],
     "can_swim": true,
