@@ -2953,59 +2953,59 @@
   {
     "name": "Koala",
     "dlc": "Australia",
-    "continent": ["North America"],
-    "biome": ["Temperate"],
-    "can_swim": true,
+    "continent": ["Oceania"],
+    "biome": ["Tropical", "Temperate"],
+    "can_swim": false,
     "status": "Vulnerable",
     "exhibit": false,
-    "dominance": "Dominant alpha male, Hierarchy by age and horn size",
-    "relationship_human": "Neutral",
-    "mating_system": "Polygynous",
+    "dominance": "Males fight for access to females",
+    "relationship_human": "Confident",
+    "mating_system": "Promiscuous",
     "life_expectancy": {
-      "male": 18,
-      "female": 18
+      "male": 13,
+      "female": 13
     },
     "habitat_requirements": {
-      "guest_enter": false,
+      "guest_enter": true,
       "exhibit": false,
-      "land": 425,
-      "land_additional": 55,
+      "land": 180,
+      "land_additional": 0,
       "water_additional": 0,
       "climbable_additional": 0,
       "water": 0,
-      "climbable": 0,
+      "climbable": 20,
       "humidity": {
         "min": 0,
         "max": 0
       },
       "temperature": {
-        "min": -12,
-        "max": 16
+        "min": 8,
+        "max": 42
       },
       "fence": {
-        "grade": 2,
-        "height": 1.25,
+        "grade": 1,
+        "height": 1,
         "climbproof": false
       },
       "group_male": {
         "size": {
-          "min": 3,
-          "max": 15
+          "min": 1,
+          "max": 3
         }
       },
       "group_female": {
         "size": {
-          "min": 3,
-          "max": 40
+          "min": 1,
+          "max": 4
         }
       },
       "group_mixed": {
         "size": {
-          "min": 3,
-          "max": 40
+          "min": 1,
+          "max": 4
         },
         "male": 1,
-        "female": 39
+        "female": 3
       }
     },
     "latin_name": "Phascolarctos cinereus",
