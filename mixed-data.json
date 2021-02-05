@@ -1465,14 +1465,14 @@
   {
     "name": "Dingo",
     "dlc": "Australia",
-    "continent": ["North America"],
-    "biome": ["Temperate"],
+    "continent": ["Oceania"],
+    "biome": ["Grassland", "Desert"],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
-    "dominance": "Dominant alpha male, Hierarchy by age and horn size",
-    "relationship_human": "Neutral",
-    "mating_system": "Polygynous",
+    "dominance": "Aplha male and alpha female",
+    "relationship_human": "Confident",
+    "mating_system": "Monogamous",
     "life_expectancy": {
       "male": 18,
       "female": 18
@@ -1480,8 +1480,8 @@
     "habitat_requirements": {
       "guest_enter": false,
       "exhibit": false,
-      "land": 425,
-      "land_additional": 55,
+      "land": 1162,
+      "land_additional": 0,
       "water_additional": 0,
       "climbable_additional": 0,
       "water": 0,
@@ -1491,8 +1491,8 @@
         "max": 0
       },
       "temperature": {
-        "min": -12,
-        "max": 16
+        "min": 12,
+        "max": 40
       },
       "fence": {
         "grade": 2,
@@ -1501,23 +1501,23 @@
       },
       "group_male": {
         "size": {
-          "min": 3,
-          "max": 15
+          "min": 2,
+          "max": 12
         }
       },
       "group_female": {
         "size": {
-          "min": 3,
-          "max": 40
+          "min": 2,
+          "max": 12
         }
       },
       "group_mixed": {
         "size": {
-          "min": 3,
-          "max": 40
+          "min": 2,
+          "max": 12
         },
-        "male": 1,
-        "female": 39
+        "male": 12,
+        "female": 12
       }
     },
     "latin_name": "Canis lupus dingo",
