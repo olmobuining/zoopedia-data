@@ -1530,59 +1530,59 @@
   {
     "name": "Eastern Blue Tongued Lizard",
     "dlc": "Australia",
-    "continent": ["North America"],
-    "biome": ["Temperate"],
-    "can_swim": true,
-    "status": "Not evaluated",
-    "exhibit": false,
-    "dominance": "Dominant alpha male, Hierarchy by age and horn size",
-    "relationship_human": "Neutral",
+    "continent": ["Oceania"],
+    "biome": ["Temperate", "Grassland", "Tropical"],
+    "can_swim": false,
+    "status": "Data Deficient",
+    "exhibit": true,
+    "dominance": "No dominance structure",
+    "relationship_human": "",
     "mating_system": "Polygynous",
     "life_expectancy": {
-      "male": 18,
-      "female": 18
+      "male": 12,
+      "female": 12
     },
     "habitat_requirements": {
       "guest_enter": false,
-      "exhibit": false,
-      "land": 425,
-      "land_additional": 55,
+      "exhibit": true,
+      "land": 0,
+      "land_additional": 0,
       "water_additional": 0,
       "climbable_additional": 0,
       "water": 0,
       "climbable": 0,
       "humidity": {
-        "min": 0,
-        "max": 0
+        "min": 50,
+        "max": 60
       },
       "temperature": {
-        "min": -12,
-        "max": 16
+        "min": 25,
+        "max": 35
       },
       "fence": {
-        "grade": 2,
-        "height": 1.25,
+        "grade": 0,
+        "height": 0,
         "climbproof": false
       },
       "group_male": {
         "size": {
-          "min": 3,
-          "max": 15
+          "min": 0,
+          "max": 0
         }
       },
       "group_female": {
         "size": {
-          "min": 3,
-          "max": 40
+          "min": 0,
+          "max": 0
         }
       },
       "group_mixed": {
         "size": {
-          "min": 3,
-          "max": 40
+          "min": 1,
+          "max": 2
         },
-        "male": 1,
-        "female": 39
+        "male": 0,
+        "female": 0
       }
     },
     "latin_name": "Tiliqua scincoides scincoides",
