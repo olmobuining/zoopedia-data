@@ -1,8 +1,13 @@
 [
   {
     "name": "Aardvark",
-    "continent": ["Africa"],
-    "biome": ["Grassland", "Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -65,8 +70,13 @@
   },
   {
     "name": "African Buffalo",
-    "continent": ["Africa"],
-    "biome": ["Grassland", "Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Near Threatened",
     "exhibit": false,
@@ -129,8 +139,14 @@
   },
   {
     "name": "African Elephant",
-    "continent": ["Africa"],
-    "biome": ["Desert", "Grassland", "Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Desert",
+      "Grassland",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -193,8 +209,12 @@
   },
   {
     "name": "African Wild Dog",
-    "continent": ["Africa"],
-    "biome": ["Grassland"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland"
+    ],
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
@@ -257,8 +277,13 @@
   },
   {
     "name": "Aldabra Giant Tortoise",
-    "continent": ["Africa"],
-    "biome": ["Grassland", "Temperate"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland",
+      "Temperate"
+    ],
     "can_swim": false,
     "status": "Vulnerable",
     "exhibit": false,
@@ -321,8 +346,12 @@
   },
   {
     "name": "Amazonian Giant Centipede",
-    "continent": ["South America"],
-    "biome": ["Tropical"],
+    "continent": [
+      "South America"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "status": "Data Deficient",
     "exhibit": true,
     "dominance": "None",
@@ -357,8 +386,12 @@
   },
   {
     "name": "American Bison",
-    "continent": ["North America"],
-    "biome": ["Grassland"],
+    "continent": [
+      "North America"
+    ],
+    "biome": [
+      "Grassland"
+    ],
     "can_swim": true,
     "status": "Near Threatened",
     "exhibit": false,
@@ -422,8 +455,13 @@
   {
     "name": "Arctic Wolf",
     "dlc": "Arctic",
-    "continent": ["North America"],
-    "biome": ["Taiga", "Tundra"],
+    "continent": [
+      "North America"
+    ],
+    "biome": [
+      "Taiga",
+      "Tundra"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -485,9 +523,84 @@
     "description": "Arctic wolves (or Canis lupus arctos) are a large canid species that live in Northern Canada and Greenland. Also known as white wolves, they are large pack predators that feed primarily on muskoxen and arctic hares, although they may also eat foxes, birds and bear cubs, as well as occasionally scavenging carrion."
   },
   {
+    "name": "Babirusa",
+    "dlc": "Southeast Asia Animal Pack",
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Tropical",
+      "Grassland"
+    ],
+    "can_swim": true,
+    "status": "Vulnerable",
+    "exhibit": false,
+    "dominance": "Males fight for right to mate. Females have rank in groups based on age.",
+    "relationship_human": "Confident",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 18,
+      "female": 18
+    },
+    "habitat_requirements": {
+      "guest_enter": false,
+      "exhibit": false,
+      "land": 290,
+      "land_additional": 0,
+      "water_additional": 0,
+      "climbable_additional": 0,
+      "water": 0,
+      "climbable": 0,
+      "humidity": {
+        "min": 0,
+        "max": 0
+      },
+      "temperature": {
+        "min": 13,
+        "max": 42
+      },
+      "fence": {
+        "grade": 2,
+        "height": 1.3,
+        "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 4
+        }
+      },
+      "group_mixed": {
+        "size": {
+          "min": 1,
+          "max": 5
+        },
+        "male": 1,
+        "female": 4
+      }
+    },
+    "latin_name": "Babyrousa celebensis",
+    "category": "Mammal",
+    "description": "The North Sulawesi babirusa is a species of pig native to the Sulawesi island of Indonesia and several small surrounding islands. The North Sulawesi babirusa is mostly hairless with grey skin. Male babirusas have four large tusks that curl back towards their skull. The North Sulawesi babirusa has a head-body length of 85 to 110cm, a tail length of 29 to 32cm and a shoulder height of 58 to 66cm. Male babirusas weigh between 70 and 100kg and female babirusas weigh between 45 and 80kg.",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTAzL2JhYmlydXNhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwfX19",
+    "slug": "babirusa",
+    "key": "babirusa"
+  },
+  {
     "name": "Bactrian Camel",
-    "continent": ["Asia"],
-    "biome": ["Desert", "Temperate"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Desert",
+      "Temperate"
+    ],
     "can_swim": true,
     "status": "Domesticated",
     "exhibit": false,
@@ -550,8 +663,15 @@
   },
   {
     "name": "Baird's Tapir",
-    "continent": ["Central America", "South America"],
-    "biome": ["Grassland", "Temperate", "Tropical"],
+    "continent": [
+      "Central America",
+      "South America"
+    ],
+    "biome": [
+      "Grassland",
+      "Temperate",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
@@ -614,8 +734,14 @@
   },
   {
     "name": "Bengal Tiger",
-    "continent": ["Asia"],
-    "biome": ["Grassland", "Temperate", "Tropical"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Grassland",
+      "Temperate",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
@@ -677,9 +803,83 @@
     "key": "bengal-tiger"
   },
   {
+    "name": "Binturong",
+    "dlc": "Southeast Asia Animal Pack",
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Taiga",
+      "Tropical"
+    ],
+    "can_swim": true,
+    "status": "Vulnerable",
+    "exhibit": false,
+    "dominance": "None",
+    "relationship_human": "Shy",
+    "mating_system": "Monogamous",
+    "life_expectancy": {
+      "male": 22,
+      "female": 22
+    },
+    "habitat_requirements": {
+      "guest_enter": true,
+      "exhibit": false,
+      "land": 182,
+      "land_additional": 0,
+      "water_additional": 0,
+      "climbable_additional": 0,
+      "water": 0,
+      "climbable": 40,
+      "humidity": {
+        "min": 0,
+        "max": 0
+      },
+      "temperature": {
+        "min": 13,
+        "max": 42
+      },
+      "fence": {
+        "grade": 2,
+        "height": 3,
+        "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 2,
+          "max": 5
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 2,
+          "max": 5
+        }
+      },
+      "group_mixed": {
+        "size": {
+          "min": 2,
+          "max": 5
+        },
+        "male": 5,
+        "female": 5
+      }
+    },
+    "latin_name": "Arctictis binturong",
+    "category": "Mammal",
+    "description": "The binturong, also known as the bearcat, is a species of mammal that lives in the forests of South and South-East Asia. It has a long, stocky body with comparatively short broad legs. They have wiry black hair with a brown face and white-tipped rounded ears. Females are approximately 20% larger than the males. The binturong has a head-body length of 71-91cm, and a tail length of 56-91cm. The males weigh between 9-20kg and the females weigh between 11-32kg.",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTAzL0JpbnR1cm9uZy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MH19fQ==",
+    "slug": "binturong",
+    "key": "binturong"
+  },
+  {
     "name": "Black Wildebeest",
-    "continent": ["Africa"],
-    "biome": ["Grassland"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -742,8 +942,14 @@
   },
   {
     "name": "Boa Constrictor",
-    "continent": ["Central America", "South America"],
-    "biome": ["Grassland", "Tropical"],
+    "continent": [
+      "Central America",
+      "South America"
+    ],
+    "biome": [
+      "Grassland",
+      "Tropical"
+    ],
     "status": "Least Concern",
     "exhibit": true,
     "dominance": "None",
@@ -778,8 +984,12 @@
   },
   {
     "name": "Bongo",
-    "continent": ["Africa"],
-    "biome": ["Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Near Threatened",
     "exhibit": false,
@@ -842,8 +1052,12 @@
   },
   {
     "name": "Bonobo",
-    "continent": ["Africa"],
-    "biome": ["Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "can_swim": false,
     "status": "Endangered",
     "exhibit": false,
@@ -906,8 +1120,12 @@
   },
   {
     "name": "Bornean Orangutan",
-    "continent": ["Asia"],
-    "biome": ["Tropical"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "can_swim": false,
     "status": "Critically Endangered",
     "exhibit": false,
@@ -970,8 +1188,12 @@
   },
   {
     "name": "Brazilian Salmon Pink Tarantula",
-    "continent": ["South America"],
-    "biome": ["Tropical"],
+    "continent": [
+      "South America"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "status": "Data Deficient",
     "exhibit": true,
     "dominance": "None",
@@ -1006,8 +1228,12 @@
   },
   {
     "name": "Brazilian Wandering Spider",
-    "continent": ["South America"],
-    "biome": ["Tropical"],
+    "continent": [
+      "South America"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "status": "Data Deficient",
     "exhibit": true,
     "dominance": "None",
@@ -1042,8 +1268,12 @@
   },
   {
     "name": "Cheetah",
-    "continent": ["Africa"],
-    "biome": ["Grassland"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland"
+    ],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -1106,8 +1336,13 @@
   },
   {
     "name": "Chinese Pangolin",
-    "continent": ["Asia"],
-    "biome": ["Temperate", "Tropical"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Temperate",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Critically Endangered",
     "exhibit": false,
@@ -1169,10 +1404,86 @@
     "key": "chinese-pangolin"
   },
   {
+    "name": "Clouded Leopard",
+    "dlc": "Southeast Asia Animal Pack",
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Temperate",
+      "Tropical"
+    ],
+    "can_swim": true,
+    "status": "Vulnerable",
+    "exhibit": false,
+    "dominance": "None",
+    "relationship_human": "Shy",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 15,
+      "female": 15
+    },
+    "habitat_requirements": {
+      "guest_enter": false,
+      "exhibit": false,
+      "land": 534,
+      "land_additional": 0,
+      "water_additional": 0,
+      "climbable_additional": 0,
+      "water": 0,
+      "climbable": 0,
+      "humidity": {
+        "min": 0,
+        "max": 0
+      },
+      "temperature": {
+        "min": 6,
+        "max": 42
+      },
+      "fence": {
+        "grade": 2,
+        "height": 3,
+        "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_mixed": {
+        "size": {
+          "min": 1,
+          "max": 2
+        },
+        "male": 1,
+        "female": 1
+      }
+    },
+    "latin_name": "Neofelis nebulosa",
+    "category": "Mammal",
+    "description": "The clouded leopard is a medium-sized arboreal cat that lives in the forests and grasslands of South East Asia. It has yellow to grey fur that is covered in large black reticulated rings. Their head, legs and tail are covered in black spots and stripes. Clouded leopards are between 69 and 108cm long, with a tail length of 61 to 91cm. Males are larger than females. Clouded leopards weigh between 11 and 23kg.",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTAzL2Nsb3VkZWRsZW9wYXJkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwfX19",
+    "slug": "clouded-leopard",
+    "key": "clouded-leopard"
+  },
+  {
     "name": "Colombian White-Faced Capuchin Monkey",
     "dlc": "South America",
-    "continent": ["South America", "North America"],
-    "biome": ["Temperate", "Tropical"],
+    "continent": [
+      "South America",
+      "North America"
+    ],
+    "biome": [
+      "Temperate",
+      "Tropical"
+    ],
     "can_swim": false,
     "status": "Least Concern",
     "exhibit": false,
@@ -1235,8 +1546,13 @@
   },
   {
     "name": "Common Death Adder",
-    "continent": ["Oceania"],
-    "biome": ["Grassland", "Temperate"],
+    "continent": [
+      "Oceania"
+    ],
+    "biome": [
+      "Grassland",
+      "Temperate"
+    ],
     "status": "Least Concern",
     "exhibit": true,
     "dominance": "None",
@@ -1271,8 +1587,12 @@
   },
   {
     "name": "Common Ostrich",
-    "continent": ["Africa"],
-    "biome": ["Grassland"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland"
+    ],
     "can_swim": false,
     "status": "Least Concern",
     "exhibit": false,
@@ -1335,8 +1655,13 @@
   },
   {
     "name": "Common Warthog",
-    "continent": ["Africa"],
-    "biome": ["Grassland", "Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -1398,10 +1723,87 @@
     "key": "common-warthog"
   },
   {
+    "name": "Cuvier's Dwarf Caiman",
+    "dlc": "Aquatic",
+    "continent": [
+      "South America"
+    ],
+    "biome": [
+      "Grassland",
+      "Tropical",
+      "Aquatic",
+      "Temperate"
+    ],
+    "can_swim": true,
+    "status": "Least Concern",
+    "exhibit": false,
+    "dominance": "Aggression level equals dominance",
+    "relationship_human": "Confident",
+    "mating_system": "Polygynous",
+    "life_expectancy": {
+      "male": 50,
+      "female": 50
+    },
+    "habitat_requirements": {
+      "guest_enter": false,
+      "exhibit": false,
+      "land": 182,
+      "land_additional": 0,
+      "water_additional": 0,
+      "climbable_additional": 0,
+      "water": 79,
+      "climbable": 0,
+      "humidity": {
+        "min": 0,
+        "max": 0
+      },
+      "temperature": {
+        "min": 11,
+        "max": 33
+      },
+      "fence": {
+        "grade": 2,
+        "height": 1.5,
+        "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_mixed": {
+        "size": {
+          "min": 1,
+          "max": 2
+        },
+        "male": 1,
+        "female": 1
+      }
+    },
+    "latin_name": "Paleosurchus palpebrosus",
+    "category": "Reptile",
+    "description": "Cuvier's dwarf caiman is a small species of crocodilian that inhabits in the rivers and swamps in the forests of northern South America. The appearance of this species changes as it matures. Caimans have large protruding brown (although occasionally yellow) eyes. Males are an average of 1.3-1.5m in length while females are an average of 1.15m in length. They usually weigh between 6-7kg.",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIwLTEyL2R3YXJmY2FpbWFuLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MzYwfX19",
+    "slug": "cuviers-dwarf-caiman",
+    "key": "cuviers-dwarf-caiman"
+  },
+  {
     "name": "Dall Sheep",
     "dlc": "Arctic",
-    "continent": ["North America"],
-    "biome": ["Taiga", "Tundra"],
+    "continent": [
+      "North America"
+    ],
+    "biome": [
+      "Taiga",
+      "Tundra"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -1463,10 +1865,129 @@
     "key": "dall-sheep"
   },
   {
+    "name": "Dhole",
+    "dlc": "Southeast Asia Animal Pack",
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Taiga",
+      "Tropical",
+      "Grassland",
+      "Temperate"
+    ],
+    "can_swim": true,
+    "status": "Endangered",
+    "exhibit": false,
+    "dominance": "Alpha male and alpha female",
+    "relationship_human": "Confident",
+    "mating_system": "Monogamous",
+    "life_expectancy": {
+      "male": 13,
+      "female": 13
+    },
+    "habitat_requirements": {
+      "guest_enter": false,
+      "exhibit": false,
+      "land": 1162,
+      "land_additional": 0,
+      "water_additional": 0,
+      "climbable_additional": 0,
+      "water": 0,
+      "climbable": 0,
+      "humidity": {
+        "min": 0,
+        "max": 0
+      },
+      "temperature": {
+        "min": 3,
+        "max": 42
+      },
+      "fence": {
+        "grade": 2,
+        "height": 1.25,
+        "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 2,
+          "max": 25
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 2,
+          "max": 25
+        }
+      },
+      "group_mixed": {
+        "size": {
+          "min": 2,
+          "max": 25
+        },
+        "male": 25,
+        "female": 13
+      }
+    },
+    "latin_name": "Cuon alpinus alpinus",
+    "category": "Mammal",
+    "description": "The Ussuri dhole lives in the forests, grasslands and tundra of India, Nepal, China, Bangladesh, Myanmar and Thailand, and is the largest of all subspecies of dhole. The Ussuri dhole has a red coat, white underbelly and narrow muzzle. They have summer and winter coats, with the winter coat being thicker and a brighter red. The dhole has a head-body length of 88-113cm, a tail length of 41-50cm and a shoulder height of 45-55cm. Both sexes are similar in size, but males are significantly heavier than females, with males weighing between 15 and 20kg and females weighing between 10 and 13kg.",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTAzL2Rob2xlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTYwfX19",
+    "slug": "dhole",
+    "key": "dhole"
+  },
+  {
+    "name": "Diamondback Terripin",
+    "dlc": "Aquatic",
+    "continent": [
+      "North America"
+    ],
+    "biome": [
+      "Aquatic",
+      "Temperate"
+    ],
+    "status": "Vulnerable",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 35,
+      "female": 35
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 65,
+        "max": 80
+      },
+      "temperature": {
+        "min": 28,
+        "max": 32
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 8
+        }
+      }
+    },
+    "latin_name": "Malaclemys terrapin terrapin",
+    "category": "Reptile",
+    "description": "The Northern diamondback terrapin is a small species of turtle that lives in the brackish and coastal swamps of the Eastern and Southern United States of America. It is characterized by its distinctive shell pattern of interlocking ‘diamonds’ that tend to have concentric light and dark rings within them. However, pattern and coloration does vary within the species. The average shell length of males is 13cm, whereas the average shell length of the female is 17cm.",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIwLTEyL3RlcnJhcGluLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MzYwfX19",
+    "slug": "diamondback-terrapin",
+    "key": "diamondback-terrapin"
+  },
+  {
     "name": "Dingo",
     "dlc": "Australia",
-    "continent": ["Oceania"],
-    "biome": ["Grassland", "Desert"],
+    "continent": [
+      "Oceania"
+    ],
+    "biome": [
+      "Grassland",
+      "Desert"
+    ],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -1530,13 +2051,18 @@
   {
     "name": "Eastern Blue Tongued Lizard",
     "dlc": "Australia",
-    "continent": ["Oceania"],
-    "biome": ["Temperate", "Grassland", "Tropical"],
+    "continent": [
+      "Oceania"
+    ],
+    "biome": [
+      "Temperate",
+      "Grassland",
+      "Tropical"
+    ],
     "can_swim": false,
     "status": "Data Deficient",
     "exhibit": true,
     "dominance": "No dominance structure",
-    "relationship_human": "",
     "mating_system": "Polygynous",
     "life_expectancy": {
       "male": 12,
@@ -1576,7 +2102,7 @@
           "max": 0
         }
       },
-      "group_mixed": {
+      "group_size": {
         "size": {
           "min": 1,
           "max": 2
@@ -1594,8 +2120,14 @@
   },
   {
     "name": "Eastern Brown Snake",
-    "continent": ["Oceania"],
-    "biome": ["Desert", "Grassland", "Temperate"],
+    "continent": [
+      "Oceania"
+    ],
+    "biome": [
+      "Desert",
+      "Grassland",
+      "Temperate"
+    ],
     "status": "Least Concern",
     "exhibit": true,
     "dominance": "None",
@@ -1630,8 +2162,13 @@
   },
   {
     "name": "Formosan Black Bear",
-    "continent": ["Asia"],
-    "biome": ["Taiga", "Temperate"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Taiga",
+      "Temperate"
+    ],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -1694,8 +2231,12 @@
   },
   {
     "name": "Galapagos Giant Tortoise",
-    "continent": ["South America"],
-    "biome": ["Tropical"],
+    "continent": [
+      "South America"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "can_swim": false,
     "status": "Vulnerable",
     "exhibit": false,
@@ -1758,8 +2299,12 @@
   },
   {
     "name": "Gemsbok",
-    "continent": ["Africa"],
-    "biome": ["Desert"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Desert"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -1822,8 +2367,14 @@
   },
   {
     "name": "Gharial",
-    "continent": ["Asia"],
-    "biome": ["Aquatic", "Temperate", "Tropical"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Aquatic",
+      "Temperate",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Critically Endangered",
     "exhibit": false,
@@ -1887,8 +2438,14 @@
   {
     "name": "Giant Anteater",
     "dlc": "South America",
-    "continent": ["South America", "North America"],
-    "biome": ["Grassland", "Tropical"],
+    "continent": [
+      "South America",
+      "North America"
+    ],
+    "biome": [
+      "Grassland",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -1951,8 +2508,12 @@
   },
   {
     "name": "Giant Burrowing Cockroach",
-    "continent": ["Oceania"],
-    "biome": ["Temperate"],
+    "continent": [
+      "Oceania"
+    ],
+    "biome": [
+      "Temperate"
+    ],
     "status": "Data Deficient",
     "exhibit": true,
     "dominance": "None",
@@ -1987,8 +2548,12 @@
   },
   {
     "name": "Giant Desert Hairy Scorpion",
-    "continent": ["North America"],
-    "biome": ["Desert"],
+    "continent": [
+      "North America"
+    ],
+    "biome": [
+      "Desert"
+    ],
     "status": "Data Deficient",
     "exhibit": true,
     "dominance": "None",
@@ -2023,8 +2588,12 @@
   },
   {
     "name": "Giant Forest Scorpion",
-    "continent": ["Asia"],
-    "biome": ["Tropical"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "status": "Data Deficient",
     "exhibit": true,
     "dominance": "None",
@@ -2058,9 +2627,125 @@
     "key": "giant-forest-scorpion"
   },
   {
+    "name": "Giant Leaf Insect",
+    "dlc": "Southeast Asia Animal Pack",
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Tropical"
+    ],
+    "status": "Data Deficient",
+    "exhibit": true,
+    "dominance": "None",
+    "mating_system": "Promiscuous or parthenogenic (asexual reproduction of females)",
+    "life_expectancy": {
+      "male": 1.5,
+      "female": 1.5
+    },
+    "habitat_requirements": {
+      "exhibit": true,
+      "humidity": {
+        "min": 40,
+        "max": 60
+      },
+      "temperature": {
+        "min": 22,
+        "max": 30
+      },
+      "group_size": {
+        "size": {
+          "min": 1,
+          "max": 8
+        }
+      }
+    },
+    "latin_name": "Phyllium giganteum",
+    "category": "Arthropod",
+    "description": "The giant Malaysian leaf insect is a large species of insect that lives in the Western tropical rainforests of Malaysia. This species exhibits extraordinary camouflage. As its name suggests, it has evolved to blend in with the leaves of the trees in which it lives. Females are 12cm in length, broad and flat in appearance and have small vestigial wings that do not allow them to fly. Males are approximately 9cm in length and much more slender. They have long wings and can fly.",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTAzL2dpYW50bGVhZmluc2VjdC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MH19fQ==",
+    "slug": "giant-leaf-insect",
+    "key": "giant-leaf-insect"
+  },
+  {
+    "name": "Giant Otter",
+    "dlc": "Aquatic",
+    "continent": [
+      "South America"
+    ],
+    "biome": [
+      "Grassland",
+      "Tropical",
+      "Aquatic"
+    ],
+    "can_swim": true,
+    "status": "Endangered",
+    "exhibit": false,
+    "dominance": "Dominant mated pair within family group",
+    "relationship_human": "Confident",
+    "mating_system": "Monogamous",
+    "life_expectancy": {
+      "male": 17,
+      "female": 17
+    },
+    "habitat_requirements": {
+      "guest_enter": false,
+      "exhibit": false,
+      "land": 360,
+      "land_additional": 0,
+      "water_additional": 0,
+      "climbable_additional": 0,
+      "water": 144,
+      "climbable": 0,
+      "humidity": {
+        "min": 0,
+        "max": 0
+      },
+      "temperature": {
+        "min": 10,
+        "max": 38
+      },
+      "fence": {
+        "grade": 2,
+        "height": 1.81,
+        "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 2,
+          "max": 9
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 2,
+          "max": 6
+        }
+      },
+      "group_mixed": {
+        "size": {
+          "min": 2,
+          "max": 15
+        },
+        "male": 9,
+        "female": 9
+      }
+    },
+    "latin_name": "Pteronura brasiliensis",
+    "category": "Mammal",
+    "description": "The giant otter is a large semi-aquatic mammal that lives in the Amazon river basin and the Pantanal wetlands of South America. The giant otter has thick, velvet-like brown fur with distinctive white markings around its throat. Giant otters have large, webbed feet and a wing like tail adapted for swimming. Male and female giant otters do not differ in size and are typically between 150 and 180cm long, though they vary in weight. Males weigh 26 to 32kg, while females are slightly lighter with 22 to 26kg.",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIwLTEyL2dpYW50b3R0ZXIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjozNjB9fX0=",
+    "slug": "giant-otter",
+    "key": "giant-otter"
+  },
+  {
     "name": "Giant Panda",
-    "continent": ["Asia"],
-    "biome": ["Temperate"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Temperate"
+    ],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -2123,8 +2808,13 @@
   },
   {
     "name": "Giant Tiger Land Snail",
-    "continent": ["Africa"],
-    "biome": ["Tropical", "Grassland"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Tropical",
+      "Grassland"
+    ],
     "status": "Data Deficient",
     "exhibit": true,
     "dominance": "None",
@@ -2159,8 +2849,12 @@
   },
   {
     "name": "Gila Monster",
-    "continent": ["North America"],
-    "biome": ["Desert"],
+    "continent": [
+      "North America"
+    ],
+    "biome": [
+      "Desert"
+    ],
     "status": "Near Threatened",
     "exhibit": true,
     "dominance": "None",
@@ -2195,8 +2889,12 @@
   },
   {
     "name": "Golden Poison Frog",
-    "continent": ["South America"],
-    "biome": ["Tropical"],
+    "continent": [
+      "South America"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "status": "Endangered",
     "exhibit": true,
     "dominance": "None",
@@ -2231,8 +2929,13 @@
   },
   {
     "name": "Goliath Beetle",
-    "continent": ["Africa"],
-    "biome": ["Tropical", "Grassland"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Tropical",
+      "Grassland"
+    ],
     "status": "Data Deficient",
     "exhibit": true,
     "dominance": "None",
@@ -2267,8 +2970,12 @@
   },
   {
     "name": "Goliath Birdeater",
-    "continent": ["South America"],
-    "biome": ["Tropical"],
+    "continent": [
+      "South America"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "status": "Data Deficient",
     "exhibit": true,
     "dominance": "None",
@@ -2303,8 +3010,13 @@
   },
   {
     "name": "Goliath Frog",
-    "continent": ["Africa"],
-    "biome": ["Aquatic", "Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Aquatic",
+      "Tropical"
+    ],
     "status": "Endangered",
     "exhibit": true,
     "dominance": "None",
@@ -2338,9 +3050,90 @@
     "key": "goliath-frog"
   },
   {
+    "name": "Gray Seal",
+    "dlc": "Aquatic",
+    "continent": [
+      "North America",
+      "Europe"
+    ],
+    "biome": [
+      "Aquatic",
+      "Temperate",
+      "Taiga"
+    ],
+    "can_swim": true,
+    "status": "Least Concern",
+    "exhibit": false,
+    "dominance": "Male dominance hierarchy; old males tend to have their own harem",
+    "relationship_human": "Neutral",
+    "mating_system": "Polygynous",
+    "life_expectancy": {
+      "male": 25,
+      "female": 25
+    },
+    "habitat_requirements": {
+      "guest_enter": false,
+      "exhibit": false,
+      "land": 200,
+      "land_additional": 9,
+      "water_additional": 12,
+      "climbable_additional": 0,
+      "water": 300,
+      "climbable": 0,
+      "humidity": {
+        "min": 0,
+        "max": 0
+      },
+      "temperature": {
+        "min": -15,
+        "max": 25
+      },
+      "fence": {
+        "grade": 2,
+        "height": 1.81,
+        "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 3,
+          "max": 3
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 8
+        }
+      },
+      "group_mixed": {
+        "size": {
+          "min": 3,
+          "max": 8
+        },
+        "male": 2,
+        "female": 8
+      }
+    },
+    "latin_name": "Halichoerus grypus atlantica",
+    "category": "Mammal",
+    "description": "The Atlantic gray seal is a species of marine mammal that lives around the landmasses of the Atlantic Ocean (UK, Ireland, Iceland, Norway, Denmark, France, Netherlands, Belgium, Germany, Sweden, Finland, Estonia, Latvia, Lithuania, Poland, Russia, Canada, USA). Western Atlantic grey seals are significantly larger than the Eastern Atlantic morph. Their males measure between 2.3 and 2.9m in length and weigh 205-370kg, while females measure between 1.9-2.3m in length and weigh 160-250kg.",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIwLTEyL2dyZXlzZWFsLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MzYwfX19",
+    "slug": "gray-seal",
+    "key": "gray-seal"
+  },
+  {
     "name": "Greater Flamingo",
-    "continent": ["Africa", "Asia", "Europe"],
-    "biome": ["Aquatic", "Grassland", "Temperate", "Tropical"],
+    "continent": [
+      "Africa",
+      "Asia",
+      "Europe"
+    ],
+    "biome": [
+      "Aquatic",
+      "Grassland",
+      "Temperate",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -2403,8 +3196,14 @@
   },
   {
     "name": "Green Iguana",
-    "continent": ["South America", "Central America"],
-    "biome": ["Tropical", "Grassland"],
+    "continent": [
+      "South America",
+      "Central America"
+    ],
+    "biome": [
+      "Tropical",
+      "Grassland"
+    ],
     "status": "Least Concern",
     "exhibit": true,
     "dominance": "None",
@@ -2439,8 +3238,14 @@
   },
   {
     "name": "Grizzly Bear",
-    "continent": ["North America"],
-    "biome": ["Taiga", "Temperate", "Tundra"],
+    "continent": [
+      "North America"
+    ],
+    "biome": [
+      "Taiga",
+      "Temperate",
+      "Tundra"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -2503,8 +3308,13 @@
   },
   {
     "name": "Himalayan Brown Bear",
-    "continent": ["Asia"],
-    "biome": ["Taiga", "Tundra"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Taiga",
+      "Tundra"
+    ],
     "can_swim": true,
     "status": "Critically Endangered",
     "exhibit": false,
@@ -2567,8 +3377,13 @@
   },
   {
     "name": "Hippopotamus",
-    "continent": ["Africa"],
-    "biome": ["Aquatic", "Grassland"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Aquatic",
+      "Grassland"
+    ],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -2631,8 +3446,14 @@
   },
   {
     "name": "Indian Elephant",
-    "continent": ["Asia"],
-    "biome": ["Grassland", "Temperate", "Tropical"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Grassland",
+      "Temperate",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
@@ -2695,8 +3516,12 @@
   },
   {
     "name": "Indian Peafowl",
-    "continent": ["Asia"],
-    "biome": ["Temperate"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Temperate"
+    ],
     "can_swim": false,
     "status": "Least Concern",
     "exhibit": false,
@@ -2759,8 +3584,13 @@
   },
   {
     "name": "Indian Rhinoceros",
-    "continent": ["Asia"],
-    "biome": ["Grassland", "Temperate"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Grassland",
+      "Temperate"
+    ],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -2824,8 +3654,15 @@
   {
     "name": "Jaguar",
     "dlc": "South America",
-    "continent": ["South America", "North America"],
-    "biome": ["Grassland", "Tropical", "Temperate"],
+    "continent": [
+      "South America",
+      "North America"
+    ],
+    "biome": [
+      "Grassland",
+      "Tropical",
+      "Temperate"
+    ],
     "can_swim": true,
     "status": "Near Threatened",
     "exhibit": false,
@@ -2888,8 +3725,13 @@
   },
   {
     "name": "Japanese Macaque",
-    "continent": ["Asia"],
-    "biome": ["Taiga", "Temperate"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Taiga",
+      "Temperate"
+    ],
     "can_swim": false,
     "status": "Least Concern",
     "exhibit": false,
@@ -2951,10 +3793,86 @@
     "key": "japanese-macaque"
   },
   {
+    "name": "King Penguin",
+    "dlc": "Aquatic",
+    "continent": [
+      "Antarctica",
+      "South America"
+    ],
+    "biome": [
+      "Aquatic",
+      "Taiga"
+    ],
+    "can_swim": true,
+    "status": "Least Concern",
+    "exhibit": false,
+    "dominance": "Male dominance hierarchy; old males tend to have their own harem",
+    "relationship_human": "Confident",
+    "mating_system": "Monogamous",
+    "life_expectancy": {
+      "male": 26,
+      "female": 26
+    },
+    "habitat_requirements": {
+      "guest_enter": true,
+      "exhibit": false,
+      "land": 200,
+      "land_additional": 0,
+      "water_additional": 0,
+      "climbable_additional": 0,
+      "water": 144,
+      "climbable": 0,
+      "humidity": {
+        "min": 0,
+        "max": 0
+      },
+      "temperature": {
+        "min": -20,
+        "max": 17
+      },
+      "fence": {
+        "grade": 2,
+        "height": 1.5,
+        "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 6,
+          "max": 500
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 6,
+          "max": 500
+        }
+      },
+      "group_mixed": {
+        "size": {
+          "min": 6,
+          "max": 500
+        },
+        "male": 500,
+        "female": 500
+      }
+    },
+    "latin_name": "Aptenodytes patagonicus patagonicus",
+    "category": "Mammal",
+    "description": "The king penguin (or Aptenodytes patagonicus patagonicus) is a large species of marine bird that lives in the Southern Ocean and breeds on sub-Antarctic islands including the Falklands and South Georgia. King penguins have dark grey feathers on their backs and flippers, white feathers on their chests and stomachs, and yellow colouration on their throats, while their heads are black, with bright orange cheek patches, as well as an orange streak along their beaks. Standing at between 70 and 100cm tall, king penguins weigh an average of 9 to 14kg, and are the second largest species of penguin after the emperor penguin.",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIwLTEyL2tpbmdwZW5ndWluLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MzYwfX19",
+    "slug": "king-penguin",
+    "key": "king-penguin"
+  },
+  {
     "name": "Koala",
     "dlc": "Australia",
-    "continent": ["Oceania"],
-    "biome": ["Tropical", "Temperate"],
+    "continent": [
+      "Oceania"
+    ],
+    "biome": [
+      "Tropical",
+      "Temperate"
+    ],
     "can_swim": false,
     "status": "Vulnerable",
     "exhibit": false,
@@ -3017,8 +3935,13 @@
   },
   {
     "name": "Komodo Dragon",
-    "continent": ["Asia"],
-    "biome": ["Grassland", "Tropical"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Grassland",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -3082,8 +4005,12 @@
   },
   {
     "name": "Lehmann's Poison Frog",
-    "continent": ["South America"],
-    "biome": ["Tropical"],
+    "continent": [
+      "South America"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "status": "Critically Endangered",
     "exhibit": true,
     "dominance": "None",
@@ -3118,8 +4045,13 @@
   },
   {
     "name": "Lesser Antillean Iguana",
-    "continent": ["South America", "Central America"],
-    "biome": ["Tropical"],
+    "continent": [
+      "South America",
+      "Central America"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "status": "Critically Endangered",
     "exhibit": true,
     "dominance": "None",
@@ -3155,8 +4087,14 @@
   {
     "name": "Llama",
     "dlc": "South America",
-    "continent": ["South America"],
-    "biome": ["Taiga", "Grassland", "Temperate"],
+    "continent": [
+      "South America"
+    ],
+    "biome": [
+      "Taiga",
+      "Grassland",
+      "Temperate"
+    ],
     "can_swim": true,
     "status": "Domesticated",
     "exhibit": false,
@@ -3218,9 +4156,84 @@
     "key": "llama"
   },
   {
+    "name": "Malayan Tapir",
+    "dlc": "Southeast Asia Animal Pack",
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Temperate",
+      "Aquatic",
+      "Tropical"
+    ],
+    "can_swim": false,
+    "status": "Endangered",
+    "exhibit": false,
+    "dominance": "None",
+    "relationship_human": "Neutral",
+    "mating_system": "Monogamous",
+    "life_expectancy": {
+      "male": 30,
+      "female": 30
+    },
+    "habitat_requirements": {
+      "guest_enter": false,
+      "exhibit": false,
+      "land": 430,
+      "land_additional": 0,
+      "water_additional": 0,
+      "climbable_additional": 0,
+      "water": 37,
+      "climbable": 0,
+      "humidity": {
+        "min": 0,
+        "max": 0
+      },
+      "temperature": {
+        "min": 8,
+        "max": 40
+      },
+      "fence": {
+        "grade": 3,
+        "height": 2,
+        "climbproof": false
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      "group_mixed": {
+        "size": {
+          "min": 1,
+          "max": 2
+        },
+        "male": 1,
+        "female": 1
+      }
+    },
+    "latin_name": "Tapirus indicus",
+    "category": "Mammal",
+    "description": "The Malayan tapir is a mammal native to the rainforests of South East Asia. The Malayan tapir’s head, shoulders, front legs and back legs are black, and their mid-body and back end is white. It is a heavy-set animal and has a distinctive prehensile proboscis nose. Malayan tapirs measure between 1.8 and 2.5m in length and weigh between 250 and 540kg. Females tend to be slightly larger than males and 10% to 20% heavier.",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTAzL21hbGF5YW50YXBpci5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MH19fQ==",
+    "slug": "malayan-tapir",
+    "key": "malayan-tapir"
+  },
+  {
     "name": "Mandrill",
-    "continent": ["Africa"],
-    "biome": ["Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "can_swim": false,
     "status": "Vulnerable",
     "exhibit": false,
@@ -3283,8 +4296,14 @@
   },
   {
     "name": "Mexican Red Knee Tarantula",
-    "continent": ["Central America"],
-    "biome": ["Tropical", "Desert", "Temperate"],
+    "continent": [
+      "Central America"
+    ],
+    "biome": [
+      "Tropical",
+      "Desert",
+      "Temperate"
+    ],
     "status": "Vulnerable",
     "exhibit": true,
     "dominance": "None",
@@ -3319,8 +4338,13 @@
   },
   {
     "name": "Nile Monitor",
-    "continent": ["Africa"],
-    "biome": ["Grassland", "Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Data Deficient",
     "exhibit": false,
@@ -3383,8 +4407,13 @@
   },
   {
     "name": "Nyala",
-    "continent": ["Africa"],
-    "biome": ["Grassland", "Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -3447,8 +4476,12 @@
   },
   {
     "name": "Okapi",
-    "continent": ["Africa"],
-    "biome": ["Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
@@ -3512,8 +4545,12 @@
   {
     "name": "Plains Zebra",
     "latin_name": "Equus quagga",
-    "continent": ["Africa"],
-    "biome": ["Grassland"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland"
+    ],
     "can_swim": true,
     "status": "Near Threatened",
     "exhibit": false,
@@ -3577,8 +4614,14 @@
     "name": "Polar Bear",
     "dlc": "Arctic",
     "latin_name": "Ursus maritimus",
-    "continent": ["Europe", "North America"],
-    "biome": ["Aquatic", "Tundra"],
+    "continent": [
+      "Europe",
+      "North America"
+    ],
+    "biome": [
+      "Aquatic",
+      "Tundra"
+    ],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -3639,9 +4682,84 @@
     "key": "polar-bear"
   },
   {
+    "name": "Proboscis Monkey",
+    "dlc": "Southeast Asia Animal Pack",
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Aquatic",
+      "Tropical"
+    ],
+    "can_swim": false,
+    "status": "Endangered",
+    "exhibit": false,
+    "dominance": "1 alpha per group",
+    "relationship_human": "Confident",
+    "mating_system": "Polygynous",
+    "life_expectancy": {
+      "male": 21,
+      "female": 21
+    },
+    "habitat_requirements": {
+      "guest_enter": false,
+      "exhibit": false,
+      "land": 400,
+      "land_additional": 0,
+      "water_additional": 0,
+      "climbable_additional": 0,
+      "water": 0,
+      "climbable": 30,
+      "humidity": {
+        "min": 0,
+        "max": 0
+      },
+      "temperature": {
+        "min": 17,
+        "max": 42
+      },
+      "fence": {
+        "grade": 3,
+        "height": 4.5,
+        "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 3,
+          "max": 12
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 3,
+          "max": 12
+        }
+      },
+      "group_mixed": {
+        "size": {
+          "min": 3,
+          "max": 19
+        },
+        "male": 9,
+        "female": 18
+      }
+    },
+    "latin_name": "Nasalis larvatus larvatus",
+    "category": "Mammal",
+    "description": "The proboscis monkey is a species of primate that lives in the rainforests, mangroves and swamp forests of the Isle of Borneo (Indonesia, Malaysia and Brunei). The monkeys have dark orange fur on their backs and the top of their heads, paler orange fur on their chests, stomachs and upper arms and grey fur on their lower bodies, legs and forearms. Males have a distinctive elongated nose that hangs down over their lip. Females do not have this pronounced feature, although their noses are still quite prominent for primates. Males and females differ in size, with males being an average height of 66-76cm and weighing between 16 and 22.5kg, and females measuring between 53-62cm in height and weighing between 7 and 12kg.",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTAzL3Byb2Jvc2Npc21vbmtleS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk2MH19fQ==",
+    "slug": "proboscis-monkey",
+    "key": "proboscis-monkey"
+  },
+  {
     "name": "Pronghorn Antelope",
-    "continent": ["North America"],
-    "biome": ["Grassland", "Temperate"],
+    "continent": [
+      "North America"
+    ],
+    "biome": [
+      "Grassland",
+      "Temperate"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -3704,8 +4822,12 @@
   },
   {
     "name": "Puff Adder",
-    "continent": ["Africa"],
-    "biome": ["Grassland"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland"
+    ],
     "status": "Data Deficient",
     "exhibit": true,
     "dominance": "None",
@@ -3741,8 +4863,13 @@
   {
     "name": "Pygmy Hippo",
     "dlc": "Deluxe upgrade",
-    "continent": ["Africa"],
-    "biome": ["Aquatic", "Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Aquatic",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
@@ -3806,8 +4933,13 @@
   {
     "name": "Red Kangaroo",
     "dlc": "Australia",
-    "continent": ["Oceania"],
-    "biome": ["Desert", "Grassland"],
+    "continent": [
+      "Oceania"
+    ],
+    "biome": [
+      "Desert",
+      "Grassland"
+    ],
     "can_swim": false,
     "status": "Least Concern",
     "exhibit": false,
@@ -3870,8 +5002,13 @@
   },
   {
     "name": "Red Panda",
-    "continent": ["Asia"],
-    "biome": ["Taiga", "Temperate"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Taiga",
+      "Temperate"
+    ],
     "can_swim": false,
     "status": "Endangered",
     "exhibit": false,
@@ -3934,8 +5071,12 @@
   },
   {
     "name": "Red Ruffed Lemur",
-    "continent": ["Africa"],
-    "biome": ["Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "can_swim": false,
     "status": "Critically Endangered",
     "exhibit": false,
@@ -3999,8 +5140,13 @@
   {
     "name": "Red-Eyed Tree Frog",
     "dlc": "South America",
-    "continent": ["South America", "North America"],
-    "biome": ["Tropical"],
+    "continent": [
+      "South America",
+      "North America"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "status": "Least Concern",
     "exhibit": true,
     "dominance": "None, but males may be aggressive during the mating season",
@@ -4036,8 +5182,14 @@
   {
     "name": "Reindeer",
     "dlc": "Arctic",
-    "continent": ["Europe", "North America"],
-    "biome": ["Taiga", "Tundra"],
+    "continent": [
+      "Europe",
+      "North America"
+    ],
+    "biome": [
+      "Taiga",
+      "Tundra"
+    ],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -4100,8 +5252,13 @@
   },
   {
     "name": "Reticulated Giraffe",
-    "continent": ["Africa"],
-    "biome": ["Grassland", "Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland",
+      "Tropical"
+    ],
     "can_swim": false,
     "status": "Endangered",
     "exhibit": false,
@@ -4164,8 +5321,12 @@
   },
   {
     "name": "Ring Tailed Lemur",
-    "continent": ["Africa"],
-    "biome": ["Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "can_swim": false,
     "status": "Endangered",
     "exhibit": false,
@@ -4228,8 +5389,12 @@
   },
   {
     "name": "Sable Antelope",
-    "continent": ["Africa"],
-    "biome": ["Grassland"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -4292,8 +5457,14 @@
   },
   {
     "name": "Saltwater Crocodile",
-    "continent": ["Asia", "Oceania"],
-    "biome": ["Aquatic", "Tropical"],
+    "continent": [
+      "Asia",
+      "Oceania"
+    ],
+    "biome": [
+      "Aquatic",
+      "Tropical"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -4356,8 +5527,13 @@
   },
   {
     "name": "Siberian Tiger",
-    "continent": ["Asia"],
-    "biome": ["Taiga", "Temperate"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Taiga",
+      "Temperate"
+    ],
     "can_swim": true,
     "status": "Endangered",
     "exhibit": false,
@@ -4420,8 +5596,12 @@
   },
   {
     "name": "Snow Leopard",
-    "continent": ["Asia"],
-    "biome": ["Taiga"],
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Taiga"
+    ],
     "can_swim": true,
     "status": "Vulnerable",
     "exhibit": false,
@@ -4485,8 +5665,13 @@
   {
     "name": "Southern Cassowary",
     "dlc": "Australia",
-    "continent": ["Oceania", "Asia"],
-    "biome": ["Tropical"],
+    "continent": [
+      "Oceania",
+      "Asia"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "can_swim": false,
     "status": "Least Concern",
     "exhibit": false,
@@ -4549,8 +5734,12 @@
   },
   {
     "name": "Spotted Hyena",
-    "continent": ["Africa"],
-    "biome": ["Grassland"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -4613,8 +5802,12 @@
   },
   {
     "name": "Springbok",
-    "continent": ["Africa"],
-    "biome": ["Grassland"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -4676,10 +5869,85 @@
     "key": "springbok"
   },
   {
+    "name": "Sun Bear",
+    "dlc": "Southeast Asia Animal Pack",
+    "continent": [
+      "Asia"
+    ],
+    "biome": [
+      "Tropical",
+      "Temperate",
+      "Grassland"
+    ],
+    "can_swim": true,
+    "status": "Vulnerable",
+    "exhibit": false,
+    "dominance": "None",
+    "relationship_human": "Neutral",
+    "mating_system": "Promiscuous",
+    "life_expectancy": {
+      "male": 27.5,
+      "female": 27.5
+    },
+    "habitat_requirements": {
+      "guest_enter": false,
+      "exhibit": false,
+      "land": 920,
+      "land_additional": 0,
+      "water_additional": 0,
+      "climbable_additional": 0,
+      "water": 0,
+      "climbable": 56,
+      "humidity": {
+        "min": 0,
+        "max": 0
+      },
+      "temperature": {
+        "min": 6,
+        "max": 42
+      },
+      "fence": {
+        "grade": 4,
+        "height": 3,
+        "climbproof": true
+      },
+      "group_male": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      "group_female": {
+        "size": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      "group_mixed": {
+        "size": {
+          "min": 1,
+          "max": 2
+        },
+        "male": 1,
+        "female": 1
+      }
+    },
+    "latin_name": "Helarctos malayanus",
+    "category": "Mammal",
+    "description": "The sun bear is a small species of bear that lives in the tropical rainforests of South-East Asia. It has dark brown to black fur with a yellow-tan face and muzzle with a distinctive orange-coloured crescent marking across its upper chest. The sun bear has a broad head, long oblong snout and small rounded ears. Males and females look the same, but males are 10% to 20% larger than females. They measure between 120 and 150cm in length and weigh between 27 and 65kg.",
+    "image_url": "https://d1zb04s4od4oai.cloudfront.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiIyMDIxLTAzL3N1bmJlYXIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NjB9fX0=",
+    "slug": "sun-bear",
+    "key": "sun-bear"
+  },
+  {
     "name": "Thomson's Gazelle",
     "dlc": "Deluxe upgrade",
-    "continent": ["Africa"],
-    "biome": ["Grassland"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -4742,8 +6010,16 @@
   },
   {
     "name": "Timber Wolf",
-    "continent": ["Asia", "Europe", "North America"],
-    "biome": ["Taiga", "Temperate", "Tundra"],
+    "continent": [
+      "Asia",
+      "Europe",
+      "North America"
+    ],
+    "biome": [
+      "Taiga",
+      "Temperate",
+      "Tundra"
+    ],
     "can_swim": true,
     "status": "Least Concern",
     "exhibit": false,
@@ -4806,8 +6082,12 @@
   },
   {
     "name": "Titan Beetle",
-    "continent": ["South America"],
-    "biome": ["Tropical"],
+    "continent": [
+      "South America"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "status": "Data Deficient",
     "exhibit": true,
     "dominance": "None",
@@ -4842,8 +6122,12 @@
   },
   {
     "name": "West African Lion",
-    "continent": ["Africa"],
-    "biome": ["Grassland"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Grassland"
+    ],
     "can_swim": true,
     "status": "Critically Endangered",
     "exhibit": false,
@@ -4906,8 +6190,12 @@
   },
   {
     "name": "Western Chimpanzee",
-    "continent": ["Africa"],
-    "biome": ["Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "can_swim": false,
     "status": "Critically Endangered",
     "exhibit": false,
@@ -4970,8 +6258,15 @@
   },
   {
     "name": "Western Diamondback Rattlesnake",
-    "continent": ["North America", "Central America"],
-    "biome": ["Desert", "Temperate", "Grassland"],
+    "continent": [
+      "North America",
+      "Central America"
+    ],
+    "biome": [
+      "Desert",
+      "Temperate",
+      "Grassland"
+    ],
     "status": "Least Concern",
     "exhibit": true,
     "dominance": "None",
@@ -5006,8 +6301,12 @@
   },
   {
     "name": "Western Lowland Gorilla",
-    "continent": ["Africa"],
-    "biome": ["Tropical"],
+    "continent": [
+      "Africa"
+    ],
+    "biome": [
+      "Tropical"
+    ],
     "can_swim": false,
     "status": "Critically Endangered",
     "exhibit": false,
@@ -5070,8 +6369,13 @@
   },
   {
     "name": "Yellow Anaconda",
-    "continent": ["South America"],
-    "biome": ["Tropical", "Aquatic"],
+    "continent": [
+      "South America"
+    ],
+    "biome": [
+      "Tropical",
+      "Aquatic"
+    ],
     "status": "Data Deficient",
     "exhibit": true,
     "dominance": "None",
